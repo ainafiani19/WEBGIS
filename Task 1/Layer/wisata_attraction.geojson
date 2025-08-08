@@ -1,0 +1,7493 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-08-06T16:04:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27807705",
+        "landuse": "recreation_ground",
+        "leisure": "park",
+        "name": "Taman Prabuwangi",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6722955,
+          -6.9129723
+        ]
+      },
+      "id": "way/27807705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87148716",
+        "description": "Lush and shaded by trees urban city park, build using synthetic grass.",
+        "leisure": "park",
+        "lit": "yes",
+        "name": "Alun-Alun Bandung",
+        "wikidata": "Q12471672",
+        "wikimedia_commons": "Category:Alun-alun Bandung",
+        "wikipedia": "id:Alun-alun Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6070471,
+          -6.9218356
+        ]
+      },
+      "id": "way/87148716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87499888",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6185896,
+          -6.895045
+        ]
+      },
+      "id": "way/87499888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87499890",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618652,
+          -6.8971582
+        ]
+      },
+      "id": "way/87499890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95526288",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Supratman No. 24, Cihapit, Bandung Wetan",
+        "alt_name": "Taman PERSIB",
+        "leisure": "park",
+        "lit": "yes",
+        "name": "Lapangan Supratman",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "surface": "artificial_turf",
+        "tactile_paving": "yes",
+        "wikidata": "Q62078992",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6298782,
+          -6.9076574
+        ]
+      },
+      "id": "way/95526288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95604245",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Ir H Djuanda",
+        "leisure": "park",
+        "name": "Taman Radio",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6112733,
+          -6.9025114
+        ]
+      },
+      "id": "way/95604245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95610582",
+        "addr:housenumber": "6",
+        "addr:street": "Jalan Taman Sari",
+        "fee": "yes",
+        "landuse": "forest",
+        "name": "Kebun Binatang Bandung",
+        "name:nl": "Dierentuin",
+        "opening_hours": "Mo-Su 08:00-16:00",
+        "tourism": "zoo",
+        "website": "http://www.bandung-zoo.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6068745,
+          -6.8910285
+        ]
+      },
+      "id": "way/95610582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119441848",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Ciungwanara",
+        "leisure": "park",
+        "name": "Taman Cikapayang Dago",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6123633,
+          -6.8985154
+        ]
+      },
+      "id": "way/119441848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125806416",
+        "addr:postcode": "40114",
+        "addr:street": "Jalan Cisangkuy",
+        "alt_name": "Taman Cilaki",
+        "description": "The park is recently revamped and revitalized by the government (in progress) with new plants and amenities. River flows in the middle of the park. Good for morning walk and popular among community members. meadow, park, recreational, grass, trees, river",
+        "leisure": "park",
+        "name": "Taman Kandaga Puspa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6224659,
+          -6.9032474
+        ]
+      },
+      "id": "way/125806416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125806418",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Cisangkuy, Citarum, Bandung Wetan",
+        "description": "meadow, park, recreational, grass, trees, river",
+        "leisure": "park",
+        "name": "Taman Lansia",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "surface": "ground, with paved walkway circling the Lansia park",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q31173292",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6207901,
+          -6.9021588
+        ]
+      },
+      "id": "way/125806418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125806419",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Ciliwung, Cihapit, Bandung Wetan",
+        "leisure": "park",
+        "name": "Pet Park",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625098,
+          -6.9042277
+        ]
+      },
+      "id": "way/125806419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125806421",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6187677,
+          -6.9017599
+        ]
+      },
+      "id": "way/125806421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130661172",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6284885,
+          -6.9264464
+        ]
+      },
+      "id": "way/130661172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153185239",
+        "leisure": "park",
+        "oneway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5966334,
+          -6.8858013
+        ]
+      },
+      "id": "way/153185239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154007026",
+        "access": "yes",
+        "fee": "yes",
+        "landuse": "recreation_ground",
+        "leisure": "playground",
+        "name": "Taman Lalu Lintas Ade Irma Suryani",
+        "tourism": "theme_park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6134565,
+          -6.9112283
+        ]
+      },
+      "id": "way/154007026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154204630",
+        "addr:city": "Bandung",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Trans Studio Bandung",
+        "tourism": "theme_park",
+        "website": "https://www.transentertainment.com/transstudio/bandung",
+        "wikidata": "Q4210050",
+        "wikimedia_commons": "Category:Trans Studio Bandung",
+        "wikipedia": "en:Trans Studio Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6365354,
+          -6.9245691
+        ]
+      },
+      "id": "way/154204630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159071770",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6066894,
+          -6.8808669
+        ]
+      },
+      "id": "way/159071770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167064114",
+        "changing_table": "no",
+        "contact:facebook": "https://www.facebook.com/AngklungUdjo",
+        "contact:instagram": "angklungudjo",
+        "contact:twitter": "@angklungudjo",
+        "contact:whatsapp": "+62 821-8282-1200",
+        "name": "Saung Angklung Udjo",
+        "parking": "surface",
+        "payment:cash": "yes",
+        "phone": "+62 821-8282-1200",
+        "reservation": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:wheelchair": "no",
+        "tourism": "attraction",
+        "website": "https://www.angklung-udjo.co.id/",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6552009,
+          -6.8982333
+        ]
+      },
+      "id": "way/167064114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/167469416",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092814,
+          -6.8839119
+        ]
+      },
+      "id": "way/167469416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168566326",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Panatayuda",
+        "leisure": "park",
+        "name": "Taman Panatayuda",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "wikidata": "Q62078991",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6157027,
+          -6.8979582
+        ]
+      },
+      "id": "way/168566326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168566329",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616781,
+          -6.8966454
+        ]
+      },
+      "id": "way/168566329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168566634",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6183774,
+          -6.9033038
+        ]
+      },
+      "id": "way/168566634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168566636",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6173184,
+          -6.9027252
+        ]
+      },
+      "id": "way/168566636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168567649",
+        "leisure": "park",
+        "name": "Taman Patung Laskar Wanita",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6068595,
+          -6.91506
+        ]
+      },
+      "id": "way/168567649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168567650",
+        "leisure": "park",
+        "name": "Taman Patung Pelajar Pejuang",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606964,
+          -6.9146765
+        ]
+      },
+      "id": "way/168567650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168569780",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5917735,
+          -6.910843
+        ]
+      },
+      "id": "way/168569780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171347315",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6107578,
+          -6.9056833
+        ]
+      },
+      "id": "way/171347315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183473029",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Ir. H. Djuanda",
+        "leisure": "park",
+        "name": "Taman Komplek DDK 369",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "sport": "volleyball",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190893,
+          -6.8714788
+        ]
+      },
+      "id": "way/183473029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183513819",
+        "access": "no",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Bukit Dago Selatan",
+        "leisure": "park",
+        "name": "Taman PDAM",
+        "office": "government",
+        "opening_hours": "24/7",
+        "operator": "PDAM",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6185119,
+          -6.8713928
+        ]
+      },
+      "id": "way/183513819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184388097",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6656602,
+          -6.9399009
+        ]
+      },
+      "id": "way/184388097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184714612",
+        "addr:city": "Bandung",
+        "addr:postcode": "40135",
+        "addr:street": "Jalan Bukit Dago Selatan No. 53A",
+        "leisure": "park",
+        "name": "Taman Budaya Jawa Barat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6196683,
+          -6.8700448
+        ]
+      },
+      "id": "way/184714612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185035557",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6267595,
+          -6.9103801
+        ]
+      },
+      "id": "way/185035557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185123551",
+        "addr:postcode": "40113",
+        "addr:street": "Jalan R.E. Martadinata",
+        "description": "Fountain park located between LLRE Martadinata & Gandapura street. It has picnic benches,fountain and trees on both end of the park. Situated right across the lush green Taman Pramuka.",
+        "leisure": "park",
+        "name": "Taman Tunas Kelapa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.626505,
+          -6.9106726
+        ]
+      },
+      "id": "way/185123551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185126823",
+        "addr:city": "Bandung",
+        "addr:housenumber": "2",
+        "addr:postcode": "40117",
+        "addr:street": "Jalan Wastukencana",
+        "description": "Lush green City park located within the compound of Balai Kota Bandung (Bandung City Hall). Integrated with Bandros shelter, Bandung City Tour on Bus.",
+        "leisure": "park",
+        "name": "Kebun Radja",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6097726,
+          -6.9124356
+        ]
+      },
+      "id": "way/185126823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185126847",
+        "alt_name": "Taman Fotografi",
+        "description": "Local recreational park with meadow, and trees.",
+        "leisure": "park",
+        "name": "Taman Foto",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "wikidata": "Q64759460",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6271179,
+          -6.9134856
+        ]
+      },
+      "id": "way/185126847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185127241",
+        "leisure": "park",
+        "name": "Tugu PERSIB",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6125094,
+          -6.9179395
+        ]
+      },
+      "id": "way/185127241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185228020",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609399,
+          -6.9375181
+        ]
+      },
+      "id": "way/185228020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185407983",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Bukit Dago",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "leisure": "park",
+        "name": "Taman Budaya",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6176954,
+          -6.8698659
+        ]
+      },
+      "id": "way/185407983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185428751",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6195005,
+          -6.874964
+        ]
+      },
+      "id": "way/185428751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185437317",
+        "building": "yes",
+        "leisure": "park",
+        "name": "lap STKS BANDUNG",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6189064,
+          -6.8719638
+        ]
+      },
+      "id": "way/185437317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/185442864",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Siliwangi (Depan Lapangan Sabuga)",
+        "leaf_type": "needleleaved",
+        "leisure": "park",
+        "name": "Hutan Kota Babakan Siliwangi",
+        "natural": "wood",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "wikidata": "Q16874988",
+        "wikipedia": "en:Babakan Siliwangi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6101977,
+          -6.886102
+        ]
+      },
+      "id": "way/185442864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239943703",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67075,
+          -6.9067413
+        ]
+      },
+      "id": "way/239943703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243451182",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Bengawan, Cihapit, Bandung Wetan",
+        "leisure": "park",
+        "name": "Taman Superhero",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "surface": "grass",
+        "tactile_paving": "yes",
+        "wheelchair": "limited",
+        "wikidata": "Q64759467",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6304931,
+          -6.9108526
+        ]
+      },
+      "id": "way/243451182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244694107",
+        "leisure": "park",
+        "name": "Gasmin",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6613509,
+          -6.9168252
+        ]
+      },
+      "id": "way/244694107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297868568",
+        "leisure": "park",
+        "name": "Lapangan Cinta",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6106721,
+          -6.8916609
+        ]
+      },
+      "id": "way/297868568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/297869547",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Ganesha",
+        "leisure": "park",
+        "name": "Taman Ganesha",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6104448,
+          -6.894052
+        ]
+      },
+      "id": "way/297869547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/303890876",
+        "leisure": "park",
+        "name": "Lapangan panggung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062052,
+          -6.8927906
+        ]
+      },
+      "id": "way/303890876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318932227",
+        "leisure": "park",
+        "name": "Rusa Tutul",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6064057,
+          -6.8892728
+        ]
+      },
+      "id": "way/318932227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318932228",
+        "leisure": "park",
+        "name": "Betet",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6073674,
+          -6.8909656
+        ]
+      },
+      "id": "way/318932228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318932229",
+        "leisure": "park",
+        "name": "Kakaktua Raja Hitam",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6071628,
+          -6.8917048
+        ]
+      },
+      "id": "way/318932229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318932975",
+        "leisure": "park",
+        "name": "Kura - Kura",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6072722,
+          -6.8926788
+        ]
+      },
+      "id": "way/318932975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318937147",
+        "leisure": "park",
+        "name": "Orang Utan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6073311,
+          -6.8903436
+        ]
+      },
+      "id": "way/318937147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318937148",
+        "leisure": "park",
+        "name": "Kasuari",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6067028,
+          -6.8893409
+        ]
+      },
+      "id": "way/318937148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318937155",
+        "leisure": "park",
+        "name": "Koak Biru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6071175,
+          -6.8914404
+        ]
+      },
+      "id": "way/318937155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321028422",
+        "leisure": "park",
+        "name": "Taman Vanda",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6100658,
+          -6.9140803
+        ]
+      },
+      "id": "way/321028422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327980246",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Bawah jembatan pasopati",
+        "alt_name": "Taman Jomblo",
+        "leisure": "park",
+        "name": "Taman Pasopati",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092197,
+          -6.8981061
+        ]
+      },
+      "id": "way/327980246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327985080",
+        "leisure": "park",
+        "name": "Taman Musik Centrum",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "wikidata": "Q64759465",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6160084,
+          -6.9119872
+        ]
+      },
+      "id": "way/327985080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/327986858",
+        "leisure": "park",
+        "name": "Taman Film",
+        "wikidata": "Q24039069",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6080604,
+          -6.8982885
+        ]
+      },
+      "id": "way/327986858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/340592887",
+        "leisure": "park",
+        "name": "Taman Skate",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6086861,
+          -6.898117
+        ]
+      },
+      "id": "way/340592887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/342532165",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Taman Cibeunying Selatan, Cihapit, Bandung Wetan",
+        "int_name": "Robotic Park",
+        "leisure": "park",
+        "name": "Taman Cibeunying",
+        "name:en": "Robotic Park",
+        "name:nl": "Robot Park",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "wikidata": "Q62082793",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6241503,
+          -6.904562
+        ]
+      },
+      "id": "way/342532165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376352112",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Sultan Tirtayasa, Citarum, Bandung Wetan",
+        "leisure": "park",
+        "name": "Taman kota di jalan gempol",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6150227,
+          -6.9037546
+        ]
+      },
+      "id": "way/376352112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377400031",
+        "leisure": "park",
+        "name": "Parking Area Outdoor",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6203336,
+          -6.8721848
+        ]
+      },
+      "id": "way/377400031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377559023",
+        "access": "private",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Bukit Dago Selatan 3",
+        "leisure": "park",
+        "name": "Taman Rumah Anggrek",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6197275,
+          -6.868265
+        ]
+      },
+      "id": "way/377559023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380762971",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5633202,
+          -6.8897697
+        ]
+      },
+      "id": "way/380762971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380762972",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5627836,
+          -6.8897573
+        ]
+      },
+      "id": "way/380762972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380762973",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5623974,
+          -6.8887801
+        ]
+      },
+      "id": "way/380762973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/380762983",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5621602,
+          -6.8900324
+        ]
+      },
+      "id": "way/380762983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381596549",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624556,
+          -6.9402209
+        ]
+      },
+      "id": "way/381596549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381599511",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6252808,
+          -6.9407779
+        ]
+      },
+      "id": "way/381599511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390192526",
+        "leisure": "park",
+        "name": "Taman Cikapundung Riverside",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608748,
+          -6.9201958
+        ]
+      },
+      "id": "way/390192526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/391750879",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5975237,
+          -6.8964138
+        ]
+      },
+      "id": "way/391750879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/391859182",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963244,
+          -6.8841212
+        ]
+      },
+      "id": "way/391859182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/391859183",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5967596,
+          -6.8841065
+        ]
+      },
+      "id": "way/391859183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406606416",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6918885,
+          -6.9028693
+        ]
+      },
+      "id": "way/406606416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406606418",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6917775,
+          -6.9022401
+        ]
+      },
+      "id": "way/406606418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406606421",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6920138,
+          -6.903115
+        ]
+      },
+      "id": "way/406606421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406606433",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6938512,
+          -6.9022216
+        ]
+      },
+      "id": "way/406606433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406606436",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6935709,
+          -6.901736
+        ]
+      },
+      "id": "way/406606436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408874931",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5984145,
+          -6.9008143
+        ]
+      },
+      "id": "way/408874931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409819040",
+        "fee": "no",
+        "leisure": "park",
+        "name": "Taman Teras Cikapundung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606917,
+          -6.8842965
+        ]
+      },
+      "id": "way/409819040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/410281036",
+        "leisure": "park",
+        "name": "Taman Rajiman",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6012117,
+          -6.9037705
+        ]
+      },
+      "id": "way/410281036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/412073417",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6288286,
+          -6.9327168
+        ]
+      },
+      "id": "way/412073417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/413681134",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6982188,
+          -6.9655908
+        ]
+      },
+      "id": "way/413681134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/413681149",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6892917,
+          -6.9656137
+        ]
+      },
+      "id": "way/413681149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/422236650",
+        "landuse": "commercial",
+        "name": "Trans Studio Bandung",
+        "tourism": "attraction",
+        "website": "https://www.transstudiobandung.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6362988,
+          -6.9255506
+        ]
+      },
+      "id": "way/422236650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522949099",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6103557,
+          -6.8703239
+        ]
+      },
+      "id": "way/522949099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522949322",
+        "addr:housenumber": "30 - 32",
+        "addr:street": "Jalan Ranca Bentang",
+        "building": "yes",
+        "fee": "yes",
+        "name": "Rabbit Town",
+        "opening_hours": "Su 09:00-20:00; Mo-Sa 10:00-20:00",
+        "phone": "+622264404848",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6102068,
+          -6.8671824
+        ]
+      },
+      "id": "way/522949322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/529801202",
+        "leisure": "park",
+        "name": "Amanda Brownies Parking spot",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6133985,
+          -6.8868701
+        ]
+      },
+      "id": "way/529801202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/538094726",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Banda No. 28, Citarum, Bandung Wetan",
+        "leisure": "park",
+        "name": "Taman Saparua",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6164262,
+          -6.90851
+        ]
+      },
+      "id": "way/538094726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/538094727",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Seram, Citarum, Bandung Wetan",
+        "leisure": "park",
+        "name": "Taman Maluku",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6149523,
+          -6.9092736
+        ]
+      },
+      "id": "way/538094727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/538800605",
+        "addr:city": "Bandung",
+        "addr:housenumber": "41",
+        "addr:street": "Jalan Kelenteng",
+        "name": "Chinatown Bandung",
+        "phone": "+62 22 6038114",
+        "tourism": "theme_park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5927736,
+          -6.9172497
+        ]
+      },
+      "id": "way/538800605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545973406",
+        "leisure": "park",
+        "name": "Taman Parkir Umum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6245703,
+          -6.8854379
+        ]
+      },
+      "id": "way/545973406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545973409",
+        "access": "private",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Terusan Cigadung No. 15",
+        "leisure": "park",
+        "name": "Bumi Samami",
+        "opening_hours": "Mo-Su 08:00-16:00",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6237325,
+          -6.8840439
+        ]
+      },
+      "id": "way/545973409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984955",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Tubagus Ismail Raya",
+        "leisure": "park",
+        "name": "Taman Binaan LPM",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6156721,
+          -6.8852061
+        ]
+      },
+      "id": "way/545984955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984956",
+        "leisure": "park",
+        "name": "Dago North Pedestrian 1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6133833,
+          -6.8859947
+        ]
+      },
+      "id": "way/545984956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984957",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6127607,
+          -6.887206
+        ]
+      },
+      "id": "way/545984957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984959",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6126827,
+          -6.8905119
+        ]
+      },
+      "id": "way/545984959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984962",
+        "leisure": "park",
+        "name": "Dago South Pedestrian Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6124428,
+          -6.8962314
+        ]
+      },
+      "id": "way/545984962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984964",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6111893,
+          -6.893152
+        ]
+      },
+      "id": "way/545984964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984965",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092168,
+          -6.8912517
+        ]
+      },
+      "id": "way/545984965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984966",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609231,
+          -6.8882897
+        ]
+      },
+      "id": "way/545984966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984970",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6103221,
+          -6.8958169
+        ]
+      },
+      "id": "way/545984970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984972",
+        "access": "private",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Badaksinga depan PDAM",
+        "leisure": "park",
+        "name": "Taman Kota RTH Tirtawening",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6105673,
+          -6.8967494
+        ]
+      },
+      "id": "way/545984972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984973",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Cihampelas",
+        "leisure": "park",
+        "name": "Taman Tugu KB",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044583,
+          -6.8846895
+        ]
+      },
+      "id": "way/545984973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545984974",
+        "leisure": "park",
+        "name": "Taman Hegarmanah",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6001256,
+          -6.8781656
+        ]
+      },
+      "id": "way/545984974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546210764",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Siliwangi",
+        "leisure": "park",
+        "name": "Taman Segitiga Dago",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6130272,
+          -6.8852485
+        ]
+      },
+      "id": "way/546210764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546475068",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6100257,
+          -6.8933649
+        ]
+      },
+      "id": "way/546475068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546640085",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Surapati",
+        "leisure": "park",
+        "name": "Taman Gasibu",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6187097,
+          -6.9002951
+        ]
+      },
+      "id": "way/546640085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546640087",
+        "leisure": "park",
+        "name": "Taman Cibeunying",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6245492,
+          -6.9054022
+        ]
+      },
+      "id": "way/546640087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546640088",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6257916,
+          -6.907053
+        ]
+      },
+      "id": "way/546640088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546640090",
+        "leisure": "park",
+        "name": "Taman Sejarah",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6101875,
+          -6.9109065
+        ]
+      },
+      "id": "way/546640090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547802075",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6364733,
+          -6.8981236
+        ]
+      },
+      "id": "way/547802075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547802083",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6364278,
+          -6.8959614
+        ]
+      },
+      "id": "way/547802083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547835236",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6170134,
+          -6.8925299
+        ]
+      },
+      "id": "way/547835236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547835237",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6172284,
+          -6.8941259
+        ]
+      },
+      "id": "way/547835237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547901448",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614492,
+          -6.8979029
+        ]
+      },
+      "id": "way/547901448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547901449",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6148626,
+          -6.8986417
+        ]
+      },
+      "id": "way/547901449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914280",
+        "leisure": "park",
+        "name": "Taman Dinas Perpus dan Arsip Bandung",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6136026,
+          -6.9079152
+        ]
+      },
+      "id": "way/547914280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914281",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6177361,
+          -6.9017919
+        ]
+      },
+      "id": "way/547914281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914282",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6184051,
+          -6.9018436
+        ]
+      },
+      "id": "way/547914282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914283",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6182151,
+          -6.9020765
+        ]
+      },
+      "id": "way/547914283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914284",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6179584,
+          -6.9023963
+        ]
+      },
+      "id": "way/547914284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914285",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6175592,
+          -6.9026321
+        ]
+      },
+      "id": "way/547914285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914286",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6176418,
+          -6.9029933
+        ]
+      },
+      "id": "way/547914286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914287",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6188025,
+          -6.9027151
+        ]
+      },
+      "id": "way/547914287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914288",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6195646,
+          -6.9025605
+        ]
+      },
+      "id": "way/547914288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914289",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61958,
+          -6.9029479
+        ]
+      },
+      "id": "way/547914289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914290",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6196776,
+          -6.9034001
+        ]
+      },
+      "id": "way/547914290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547914291",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6200233,
+          -6.9023657
+        ]
+      },
+      "id": "way/547914291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547922945",
+        "leisure": "park",
+        "name": "Taman PUSDAI",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6259415,
+          -6.9001239
+        ]
+      },
+      "id": "way/547922945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548307336",
+        "leisure": "park",
+        "name": "Taman Sosiologi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6233803,
+          -6.8830471
+        ]
+      },
+      "id": "way/548307336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325514",
+        "leisure": "park",
+        "name": "Taman Teknik Sipil",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6100336,
+          -6.8921581
+        ]
+      },
+      "id": "way/548325514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325515",
+        "leisure": "park",
+        "name": "Lapangan Radar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6084093,
+          -6.8908191
+        ]
+      },
+      "id": "way/548325515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325516",
+        "leisure": "park",
+        "name": "Taman Parkir Sipil",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6084799,
+          -6.8922593
+        ]
+      },
+      "id": "way/548325516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325519",
+        "leisure": "park",
+        "name": "Taman Masjid Salman",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6113308,
+          -6.8936626
+        ]
+      },
+      "id": "way/548325519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325521",
+        "leisure": "park",
+        "name": "Kebun Botani GKU Barat",
+        "name:en": "Botany Garden",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6084866,
+          -6.8903221
+        ]
+      },
+      "id": "way/548325521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325522",
+        "description": "Di Bawah Pohon RIndang",
+        "leisure": "park",
+        "name": "DPR",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6102936,
+          -6.8898116
+        ]
+      },
+      "id": "way/548325522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325527",
+        "leisure": "park",
+        "name": "Lapangan Barrac",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6114778,
+          -6.8917022
+        ]
+      },
+      "id": "way/548325527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325529",
+        "leisure": "park",
+        "name": "Taman Planologi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6109556,
+          -6.8916265
+        ]
+      },
+      "id": "way/548325529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325545",
+        "leisure": "park",
+        "name": "Taman Perminyakan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6116284,
+          -6.8886618
+        ]
+      },
+      "id": "way/548325545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548325557",
+        "leisure": "park",
+        "name": "Lapangan Bioskop Kampus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6111551,
+          -6.8920448
+        ]
+      },
+      "id": "way/548325557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548338829",
+        "leisure": "park",
+        "name": "Taman Lembah Tubagus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62496,
+          -6.8847336
+        ]
+      },
+      "id": "way/548338829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548475475",
+        "addr:city": "Bandung",
+        "addr:postcode": "40267",
+        "addr:street": "Sutra Graha",
+        "addr:unit": "1",
+        "leisure": "park",
+        "name": "Fasum SG Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6216668,
+          -6.9548313
+        ]
+      },
+      "id": "way/548475475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548475582",
+        "leisure": "park",
+        "name": "SG Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6210756,
+          -6.9556311
+        ]
+      },
+      "id": "way/548475582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549277439",
+        "leisure": "park",
+        "name": "Taman RW 14 Sadang Sari",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625412,
+          -6.8887673
+        ]
+      },
+      "id": "way/549277439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/549279376",
+        "leisure": "park",
+        "name": "Taman Lotus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6207198,
+          -6.8809498
+        ]
+      },
+      "id": "way/549279376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550477281",
+        "leisure": "park",
+        "name": "Taman Gamma",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6261169,
+          -6.877985
+        ]
+      },
+      "id": "way/550477281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550629663",
+        "leisure": "park",
+        "name": "Taman Ciwalk",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6048889,
+          -6.8940553
+        ]
+      },
+      "id": "way/550629663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550633636",
+        "leisure": "park",
+        "name": "taman Rumah Mode",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5997195,
+          -6.8826903
+        ]
+      },
+      "id": "way/550633636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/550634187",
+        "leisure": "park",
+        "name": "Taman Eatboss",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6054419,
+          -6.8732455
+        ]
+      },
+      "id": "way/550634187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551635068",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Salam, Cihapit, Bandung Wetan",
+        "leisure": "park",
+        "name": "Taman salam",
+        "name:en": "Salam Park",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6295702,
+          -6.909146
+        ]
+      },
+      "id": "way/551635068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551635361",
+        "leisure": "park",
+        "name": "Taman Puskesmas Salam",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6298369,
+          -6.9100339
+        ]
+      },
+      "id": "way/551635361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556263229",
+        "leisure": "park",
+        "name": "Taman Veteran",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190523,
+          -6.9214932
+        ]
+      },
+      "id": "way/556263229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556308928",
+        "leisure": "park",
+        "name": "Taman Depan Porwitabes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6104267,
+          -6.9140041
+        ]
+      },
+      "id": "way/556308928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556308930",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6045792,
+          -6.8998172
+        ]
+      },
+      "id": "way/556308930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556308937",
+        "leisure": "park",
+        "name": "Taman Masjid Istiqomah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6216621,
+          -6.9046852
+        ]
+      },
+      "id": "way/556308937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564409",
+        "leisure": "park",
+        "name": "Alun-Alun Cicendo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5889522,
+          -6.9107767
+        ]
+      },
+      "id": "way/557564409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564412",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5874048,
+          -6.9067419
+        ]
+      },
+      "id": "way/557564412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564414",
+        "addr:city": "Bandung",
+        "addr:street": "Jalan Pajajaran",
+        "description": "Taman yang didalamnya Terdapat monumen untuk memperingati diadakannya KTT Non Blok di Indonesia",
+        "leisure": "park",
+        "name": "Taman Monumen KTT Non Blok",
+        "name:en": "Non Block High Level Conference Monument Park",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592539,
+          -6.9073189
+        ]
+      },
+      "id": "way/557564414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564416",
+        "leisure": "park",
+        "name": "Taman simpang Jalan Dr. Cipto / Jalan Pajajaran",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5992799,
+          -6.9066179
+        ]
+      },
+      "id": "way/557564416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564419",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6028885,
+          -6.9043842
+        ]
+      },
+      "id": "way/557564419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564422",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6010362,
+          -6.8830633
+        ]
+      },
+      "id": "way/557564422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564424",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5960791,
+          -6.8745104
+        ]
+      },
+      "id": "way/557564424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564431",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Cihapit, Cihapit, Bandung Wetan",
+        "leisure": "park",
+        "name": "Taman Cihapit",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6247839,
+          -6.9061722
+        ]
+      },
+      "id": "way/557564431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564433",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6198349,
+          -6.922833
+        ]
+      },
+      "id": "way/557564433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557564436",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6235372,
+          -6.925962
+        ]
+      },
+      "id": "way/557564436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557567424",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6046933,
+          -6.9123388
+        ]
+      },
+      "id": "way/557567424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557567425",
+        "leisure": "park",
+        "name": "Taman Pandawa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5934,
+          -6.9091665
+        ]
+      },
+      "id": "way/557567425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557567426",
+        "leisure": "park",
+        "name": "Alun-alun Ujungberung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7015684,
+          -6.9137329
+        ]
+      },
+      "id": "way/557567426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557965293",
+        "leisure": "park",
+        "name": "Lapangan RW 11",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5757892,
+          -6.8821557
+        ]
+      },
+      "id": "way/557965293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/557965294",
+        "leisure": "park",
+        "name": "Taman Bermain RW 11",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5755468,
+          -6.8818323
+        ]
+      },
+      "id": "way/557965294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554788",
+        "leisure": "park",
+        "name": "Emerald Towers Park A",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6643576,
+          -6.9322117
+        ]
+      },
+      "id": "way/558554788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554792",
+        "leisure": "park",
+        "name": "Emerald Towers Park B",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6642863,
+          -6.9325288
+        ]
+      },
+      "id": "way/558554792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554796",
+        "leisure": "park",
+        "name": "JNE Parking Lot",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6638266,
+          -6.9328902
+        ]
+      },
+      "id": "way/558554796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554805",
+        "leisure": "park",
+        "name": "Emerald Towers Parking Lot A",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6642154,
+          -6.9330065
+        ]
+      },
+      "id": "way/558554805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554808",
+        "leisure": "park",
+        "name": "Emerald Towers Parking Lot B",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6644668,
+          -6.9317844
+        ]
+      },
+      "id": "way/558554808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554816",
+        "leisure": "park",
+        "name": "Kawaluyaan Indah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.661,
+          -6.9347547
+        ]
+      },
+      "id": "way/558554816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554820",
+        "leisure": "park",
+        "name": "Kawaluyaan Indah Playground",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6610137,
+          -6.9351791
+        ]
+      },
+      "id": "way/558554820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558554827",
+        "leisure": "park",
+        "name": "Green Pedestrian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6638263,
+          -6.9340968
+        ]
+      },
+      "id": "way/558554827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558556622",
+        "leisure": "park",
+        "name": "Sanggar Hurip Playground",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.666823,
+          -6.9358915
+        ]
+      },
+      "id": "way/558556622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558556623",
+        "leisure": "park",
+        "name": "Sanggar Hurip Greenfield",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6649307,
+          -6.9370574
+        ]
+      },
+      "id": "way/558556623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/558556624",
+        "leisure": "park",
+        "name": "Green Area",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6609696,
+          -6.9370593
+        ]
+      },
+      "id": "way/558556624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564994052",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5745717,
+          -6.8858911
+        ]
+      },
+      "id": "way/564994052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564995555",
+        "leisure": "park",
+        "name": "Taman Sidoluhur",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6329715,
+          -6.8938399
+        ]
+      },
+      "id": "way/564995555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/579485239",
+        "leisure": "park",
+        "name": "Taman Anak Tongkeng",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6234409,
+          -6.9117722
+        ]
+      },
+      "id": "way/579485239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/583835972",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5868463,
+          -6.9384944
+        ]
+      },
+      "id": "way/583835972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/622111127",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Peta No. 229",
+        "leisure": "park",
+        "name": "Peta Park",
+        "opening_hours": "Tu-Su 07:00-15:00",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5881759,
+          -6.9317303
+        ]
+      },
+      "id": "way/622111127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632659555",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6271165,
+          -6.9395701
+        ]
+      },
+      "id": "way/632659555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/633755573",
+        "access": "private",
+        "addr:city": "Bandung",
+        "addr:full": "Komplek C Taman Anggrek",
+        "leisure": "park",
+        "name": "Taman Bermain",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5860405,
+          -6.9338398
+        ]
+      },
+      "id": "way/633755573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/634270768",
+        "addr:city": "BANDUNG",
+        "addr:housenumber": "22",
+        "addr:postcode": "40115",
+        "addr:street": "Jalan Diponegoro",
+        "building": "office",
+        "building:levels": "3",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "government",
+        "building:walls": "brick",
+        "government": "administrative",
+        "name": "Gedung Sate",
+        "office": "government",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6187751,
+          -6.9026462
+        ]
+      },
+      "id": "way/634270768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/635390760",
+        "addr:city": "Bandung",
+        "addr:housenumber": "125",
+        "addr:postcode": "40141",
+        "addr:street": "Jalan Ciumbuleuit",
+        "leisure": "park",
+        "name": "Parahyangan Residence Pool and Sky Garden on 26th floor",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6030672,
+          -6.8772526
+        ]
+      },
+      "id": "way/635390760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637408167",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6119735,
+          -6.8849136
+        ]
+      },
+      "id": "way/637408167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/642148336",
+        "leisure": "park",
+        "name": "Papandayan Tower Front Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6038379,
+          -6.8771601
+        ]
+      },
+      "id": "way/642148336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648346616",
+        "leisure": "park",
+        "name": "Taman",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6070014,
+          -6.8906464
+        ]
+      },
+      "id": "way/648346616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648346712",
+        "leisure": "park",
+        "name": "Volleyball Field RT 06",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6986021,
+          -6.9099231
+        ]
+      },
+      "id": "way/648346712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671794992",
+        "addr:city": "Kel. Pasir Wangi",
+        "addr:postcode": "40618",
+        "leisure": "park",
+        "name": "Taman",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.706863,
+          -6.9011863
+        ]
+      },
+      "id": "way/671794992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700626815",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589949,
+          -6.8615847
+        ]
+      },
+      "id": "way/700626815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700639066",
+        "leisure": "park",
+        "name": "UPI Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952867,
+          -6.8623125
+        ]
+      },
+      "id": "way/700639066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700659087",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5945859,
+          -6.8598625
+        ]
+      },
+      "id": "way/700659087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700659090",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5945631,
+          -6.8596329
+        ]
+      },
+      "id": "way/700659090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/720904001",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7087607,
+          -6.9524768
+        ]
+      },
+      "id": "way/720904001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/721117939",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5996356,
+          -6.9014781
+        ]
+      },
+      "id": "way/721117939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/721117940",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5997517,
+          -6.9015179
+        ]
+      },
+      "id": "way/721117940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/725194613",
+        "leisure": "park",
+        "name": "Taman Karang Taruna",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6296158,
+          -6.9153461
+        ]
+      },
+      "id": "way/725194613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/731265971",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937823,
+          -6.8631563
+        ]
+      },
+      "id": "way/731265971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734351252",
+        "leisure": "park",
+        "name": "Taman RW 01",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6125689,
+          -6.9462444
+        ]
+      },
+      "id": "way/734351252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734357298",
+        "leisure": "park",
+        "name": "Taman Piset",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6254097,
+          -6.9343716
+        ]
+      },
+      "id": "way/734357298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734357299",
+        "leisure": "park",
+        "name": "Taman Alifa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616436,
+          -6.9381233
+        ]
+      },
+      "id": "way/734357299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/735089657",
+        "leisure": "park",
+        "name": "Sekar Manis Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6284187,
+          -6.9408071
+        ]
+      },
+      "id": "way/735089657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/735114087",
+        "barrier": "hedge",
+        "leisure": "park",
+        "name": "Menara Air Metro",
+        "name:en": "Metro Tower Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6671049,
+          -6.9399002
+        ]
+      },
+      "id": "way/735114087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/735115691",
+        "leisure": "park",
+        "name": "Taman Cikawao",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6132137,
+          -6.9272214
+        ]
+      },
+      "id": "way/735115691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/735116437",
+        "leisure": "park",
+        "name": "Burangrang Triangle Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6201049,
+          -6.922926
+        ]
+      },
+      "id": "way/735116437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737501869",
+        "leisure": "park",
+        "name": "Taman Setiabudhi Supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6015718,
+          -6.8826947
+        ]
+      },
+      "id": "way/737501869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737678927",
+        "leisure": "park",
+        "name": "Taman Saturnus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6643521,
+          -6.9529002
+        ]
+      },
+      "id": "way/737678927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737680524",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6724859,
+          -6.9448371
+        ]
+      },
+      "id": "way/737680524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737682742",
+        "leisure": "park",
+        "name": "Taman Depan Balai Sartika",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6248724,
+          -6.9428422
+        ]
+      },
+      "id": "way/737682742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737683533",
+        "leisure": "park",
+        "name": "Taman RW 10 Kelurahan Turangga",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.626813,
+          -6.9367387
+        ]
+      },
+      "id": "way/737683533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/737684344",
+        "leisure": "park",
+        "name": "Taman Durma",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6280194,
+          -6.9342154
+        ]
+      },
+      "id": "way/737684344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/739777716",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6069214,
+          -6.9140406
+        ]
+      },
+      "id": "way/739777716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/739778585",
+        "leisure": "park",
+        "name": "Taman Maung Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6075148,
+          -6.907724
+        ]
+      },
+      "id": "way/739778585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/739781047",
+        "leisure": "park",
+        "name": "Taman Tank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6300051,
+          -6.9252499
+        ]
+      },
+      "id": "way/739781047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/741776050",
+        "leisure": "park",
+        "name": "Taman Pembauran",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.610618,
+          -6.9425707
+        ]
+      },
+      "id": "way/741776050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749732425",
+        "addr:city": "Kel. Margasari",
+        "addr:housenumber": "12",
+        "addr:postcode": "40286",
+        "addr:street": "Jalan Kiarasai IV",
+        "leisure": "park",
+        "name": "Taman Kiarasari IV",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6437833,
+          -6.9485303
+        ]
+      },
+      "id": "way/749732425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749732426",
+        "addr:city": "Kel. Margasari",
+        "addr:housenumber": "23",
+        "addr:postcode": "40286",
+        "addr:street": "Jalan Kiarasari V",
+        "leisure": "park",
+        "name": "Taman Kiarasari V",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6445429,
+          -6.9483121
+        ]
+      },
+      "id": "way/749732426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749732427",
+        "leisure": "park",
+        "name": "Taman Kiarasari Utama",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6446718,
+          -6.9492166
+        ]
+      },
+      "id": "way/749732427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749732428",
+        "addr:city": "Kel. Margasari",
+        "addr:postcode": "40286",
+        "addr:street": "Jalan Kiarasari Permai V",
+        "leisure": "park",
+        "name": "Taman Kiarasari Permai",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6467952,
+          -6.948248
+        ]
+      },
+      "id": "way/749732428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749818138",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6479477,
+          -6.9528488
+        ]
+      },
+      "id": "way/749818138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749819451",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6482927,
+          -6.9513594
+        ]
+      },
+      "id": "way/749819451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750181961",
+        "addr:city": "Kota Bandung",
+        "addr:street": "Jalan Cicukang",
+        "leisure": "park",
+        "name": "Taman Mini Endah Cicukang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6836618,
+          -6.9107603
+        ]
+      },
+      "id": "way/750181961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750184151",
+        "addr:city": "Kota Bandung",
+        "addr:street": "Jalan Cicukang",
+        "leisure": "park",
+        "name": "Taman Cicukang",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6848116,
+          -6.9079706
+        ]
+      },
+      "id": "way/750184151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750190780",
+        "addr:city": "Bandung",
+        "addr:street": "Jalan Jakarta",
+        "fee": "yes",
+        "leisure": "park",
+        "name": "Kiara Artha Park",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6421899,
+          -6.916009
+        ]
+      },
+      "id": "way/750190780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750198490",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Karangsetra park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5938436,
+          -6.8779158
+        ]
+      },
+      "id": "way/750198490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750198977",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Museum Pendidikan Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5941668,
+          -6.8597731
+        ]
+      },
+      "id": "way/750198977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750199502",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Roeslan Abdul Gani Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591624,
+          -6.8605459
+        ]
+      },
+      "id": "way/750199502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750200249",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Masjid Attaqwa Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586224,
+          -6.8661605
+        ]
+      },
+      "id": "way/750200249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750206390",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Al Murabbi Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5834907,
+          -6.8798078
+        ]
+      },
+      "id": "way/750206390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750207884",
+        "leisure": "park",
+        "name": "Jalur Hijau Cipaganti",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6016611,
+          -6.8887307
+        ]
+      },
+      "id": "way/750207884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750208197",
+        "leisure": "park",
+        "name": "Jalur hijau taman sari",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6097784,
+          -6.8976604
+        ]
+      },
+      "id": "way/750208197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750209307",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Taman PKK",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6251016,
+          -6.9012142
+        ]
+      },
+      "id": "way/750209307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750210743",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Simpay asih Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6900583,
+          -6.9017877
+        ]
+      },
+      "id": "way/750210743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750210837",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Taruna Parahyangan Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6880164,
+          -6.9018814
+        ]
+      },
+      "id": "way/750210837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750215078",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "FCL front lobby park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587401,
+          -6.9295617
+        ]
+      },
+      "id": "way/750215078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750218153",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Batununggal Molek Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6323503,
+          -6.9575645
+        ]
+      },
+      "id": "way/750218153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750218154",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6295798,
+          -6.9569576
+        ]
+      },
+      "id": "way/750218154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750218798",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Arcamanik Tower Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.674267,
+          -6.9180275
+        ]
+      },
+      "id": "way/750218798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750221930",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Taman Abah Toto",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6876573,
+          -6.9266425
+        ]
+      },
+      "id": "way/750221930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750222268",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Taman Bina Harapan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6849378,
+          -6.9145059
+        ]
+      },
+      "id": "way/750222268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/750222269",
+        "addr:city": "Bandung",
+        "leisure": "park",
+        "name": "Bina Harapan Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6856602,
+          -6.9147713
+        ]
+      },
+      "id": "way/750222269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/752098472",
+        "leisure": "park",
+        "name": "Taman Indonesia Tenggelam",
+        "name:en": "Indonesia Tenggelam Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6103474,
+          -6.8905013
+        ]
+      },
+      "id": "way/752098472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753202019",
+        "leisure": "park",
+        "name": "Dago Atas Sideway",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6197599,
+          -6.8722925
+        ]
+      },
+      "id": "way/753202019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753202021",
+        "leisure": "park",
+        "name": "DDK Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6193636,
+          -6.8717919
+        ]
+      },
+      "id": "way/753202021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753202022",
+        "leisure": "park",
+        "name": "Kemper Park 1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6198371,
+          -6.8714383
+        ]
+      },
+      "id": "way/753202022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753202023",
+        "leisure": "park",
+        "name": "DDK Park 2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6195161,
+          -6.8716923
+        ]
+      },
+      "id": "way/753202023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753206626",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. L. L. R.E. Martadinata, Cihapit, Bandung Wetan",
+        "description": "Park located on LLRE Martadinata street. Currently revamped and revitalized with two gates for entrance and exit. The lush green Taman Pramuka is popular among boy & girl scout.",
+        "leisure": "park",
+        "name": "Taman Pramuka",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6268852,
+          -6.9102723
+        ]
+      },
+      "id": "way/753206626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753210206",
+        "leisure": "park",
+        "name": "ITB Green Pedestrian",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092971,
+          -6.8940827
+        ]
+      },
+      "id": "way/753210206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/753210207",
+        "leisure": "park",
+        "name": "Salman Green Sideway",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6113169,
+          -6.8940305
+        ]
+      },
+      "id": "way/753210207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798340600",
+        "leisure": "park",
+        "name": "Lapangan Volly",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62505,
+          -6.8922529
+        ]
+      },
+      "id": "way/798340600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/798340605",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6246882,
+          -6.892774
+        ]
+      },
+      "id": "way/798340605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804897005",
+        "leisure": "park",
+        "name": "Pedestrian Taman Lalu Lintas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6134646,
+          -6.9109366
+        ]
+      },
+      "id": "way/804897005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/804897006",
+        "leisure": "park",
+        "name": "Taman Lalu Lintas Green Pedestrian",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6127599,
+          -6.9120936
+        ]
+      },
+      "id": "way/804897006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/857644392",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6023141,
+          -6.8579127
+        ]
+      },
+      "id": "way/857644392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/857644399",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6027514,
+          -6.8579114
+        ]
+      },
+      "id": "way/857644399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899990642",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6405697,
+          -6.9401351
+        ]
+      },
+      "id": "way/899990642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899990643",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6416184,
+          -6.9397071
+        ]
+      },
+      "id": "way/899990643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899990644",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6394513,
+          -6.939636
+        ]
+      },
+      "id": "way/899990644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899990646",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6415782,
+          -6.9371138
+        ]
+      },
+      "id": "way/899990646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961785360",
+        "addr:city": "Kel. Mekar Mulya",
+        "addr:housenumber": "33",
+        "addr:postcode": "40614",
+        "addr:street": "Jalan Pasanggrahan lll",
+        "leisure": "park",
+        "name": "taman bea cukai",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7027238,
+          -6.925135
+        ]
+      },
+      "id": "way/961785360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961785361",
+        "addr:city": "Kel. Mekar Mulya",
+        "addr:housenumber": "no 33",
+        "addr:postcode": "40614",
+        "addr:street": "Jalan Panghegar",
+        "leisure": "park",
+        "name": "Taman Pojok Tilu Tilu",
+        "opening_hours": "24/7",
+        "operator": "Pojok Tilu Tilu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7039367,
+          -6.9250373
+        ]
+      },
+      "id": "way/961785361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961785362",
+        "addr:city": "Kel. Mekar Mulya",
+        "addr:housenumber": "15",
+        "addr:postcode": "40614",
+        "addr:street": "Jalan Panghegar",
+        "leisure": "park",
+        "name": "taman rt02",
+        "opening_hours": "24/7",
+        "operator": "rt02",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.702266,
+          -6.9244152
+        ]
+      },
+      "id": "way/961785362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961785363",
+        "addr:city": "Kel. Mekar Mulya",
+        "addr:housenumber": "10",
+        "addr:postcode": "40614",
+        "addr:street": "Jalan Panghegar",
+        "leisure": "park",
+        "name": "Taman RW 08",
+        "opening_hours": "24/7",
+        "operator": "RW08",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7008007,
+          -6.9238832
+        ]
+      },
+      "id": "way/961785363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961785364",
+        "addr:city": "Kel. Mekar Mulya",
+        "addr:housenumber": "10",
+        "addr:street": "Jalan Pamekar",
+        "leisure": "park",
+        "name": "Taman RW 02",
+        "opening_hours": "24/7",
+        "operator": "rw02",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6998853,
+          -6.9283403
+        ]
+      },
+      "id": "way/961785364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961800092",
+        "leisure": "park",
+        "name": "Taman Gunung Kareumbi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60864,
+          -6.869062
+        ]
+      },
+      "id": "way/961800092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961800093",
+        "leisure": "park",
+        "name": "Nara Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6098789,
+          -6.8675306
+        ]
+      },
+      "id": "way/961800093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/990640380",
+        "leisure": "park",
+        "name": "Taman Tegalega",
+        "name:en": "Tegallega Park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6047988,
+          -6.934813
+        ]
+      },
+      "id": "way/990640380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052972734",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Gg. Caladi",
+        "leisure": "park",
+        "name": "Taman Caladi",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6229787,
+          -6.8971455
+        ]
+      },
+      "id": "way/1052972734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052977327",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6169142,
+          -6.8836208
+        ]
+      },
+      "id": "way/1052977327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052977328",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6170666,
+          -6.8842583
+        ]
+      },
+      "id": "way/1052977328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052978588",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6259633,
+          -6.8880477
+        ]
+      },
+      "id": "way/1052978588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052979151",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6198154,
+          -6.8814327
+        ]
+      },
+      "id": "way/1052979151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052982044",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6148931,
+          -6.8853495
+        ]
+      },
+      "id": "way/1052982044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052983681",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6157883,
+          -6.8835098
+        ]
+      },
+      "id": "way/1052983681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1052985430",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Dr Slamet",
+        "leisure": "park",
+        "name": "Taman DR Slamet",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6031586,
+          -6.8991759
+        ]
+      },
+      "id": "way/1052985430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061094553",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Saninten, Cihapit, Bandung Wetan",
+        "leisure": "park",
+        "name": "Taman Toga Saninten",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6274558,
+          -6.9080044
+        ]
+      },
+      "id": "way/1061094553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061094555",
+        "access": "no",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Citarum, Citarum, Bandung Wetan",
+        "leisure": "park",
+        "name": "RTH Sempadan Jalan Citarum",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6214074,
+          -6.9056022
+        ]
+      },
+      "id": "way/1061094555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061406086",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Tirta kencana",
+        "leisure": "park",
+        "name": "Taman Magot",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5889471,
+          -6.9329507
+        ]
+      },
+      "id": "way/1061406086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061406087",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Papan Kencana",
+        "leisure": "park",
+        "name": "Taman Bermain Anak",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5883084,
+          -6.9343418
+        ]
+      },
+      "id": "way/1061406087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061784121",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Wirayuda Timur",
+        "leisure": "park",
+        "name": "Taman Gasibu",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6186529,
+          -6.8987889
+        ]
+      },
+      "id": "way/1061784121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061784122",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dayang Sumbi",
+        "alt_name": "RTH Path Jalan siliwangi",
+        "leisure": "park",
+        "name": "Taman Segitiga",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115312,
+          -6.8871961
+        ]
+      },
+      "id": "way/1061784122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061784123",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Bagusrangin",
+        "leisure": "park",
+        "name": "Taman Bagus Rangin",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6170791,
+          -6.897057
+        ]
+      },
+      "id": "way/1061784123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061784124",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dipatiukur",
+        "leisure": "park",
+        "name": "Taman Monumen Perjuangan",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6185232,
+          -6.8932952
+        ]
+      },
+      "id": "way/1061784124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061784128",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dipatiukur",
+        "leisure": "park",
+        "name": "Taman Gesit",
+        "opening_hours": "24/7",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "wikidata": "Q25469385",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6166664,
+          -6.8957027
+        ]
+      },
+      "id": "way/1061784128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061865620",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Tamansari",
+        "leisure": "park",
+        "name": "Taman Bermain Anak",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606486,
+          -6.8973397
+        ]
+      },
+      "id": "way/1061865620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061865621",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Tamansari",
+        "leisure": "park",
+        "name": "Taman Djuanda",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079984,
+          -6.9052877
+        ]
+      },
+      "id": "way/1061865621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061865622",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Sulanjana",
+        "building": "yes",
+        "leisure": "park",
+        "name": "Taman",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6106095,
+          -6.8997425
+        ]
+      },
+      "id": "way/1061865622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061948058",
+        "access": "private",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Badaksinga depan PDAM",
+        "leisure": "park",
+        "name": "RTH Kota Tirtawening",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.611166,
+          -6.8970435
+        ]
+      },
+      "id": "way/1061948058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062229853",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Titimplik",
+        "leisure": "park",
+        "name": "Taman RW 04 Gelatik Dalam",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6224687,
+          -6.8946921
+        ]
+      },
+      "id": "way/1062229853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062272275",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Kanayakan",
+        "leisure": "park",
+        "name": "RTH Polman",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6198991,
+          -6.8779661
+        ]
+      },
+      "id": "way/1062272275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062272276",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Kanayakan",
+        "leisure": "park",
+        "name": "RTH KANAYAKAN",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6225491,
+          -6.8777114
+        ]
+      },
+      "id": "way/1062272276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062272277",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Kanayakan",
+        "leisure": "park",
+        "name": "RTH KANAYAKAN",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62098,
+          -6.8791601
+        ]
+      },
+      "id": "way/1062272277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062272278",
+        "access": "no",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Raya Dago",
+        "leisure": "park",
+        "name": "RTH DAGO",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621043,
+          -6.8708185
+        ]
+      },
+      "id": "way/1062272278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062272279",
+        "access": "private",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dago Pojok",
+        "leisure": "park",
+        "name": "RTH ITB",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6181019,
+          -6.8668493
+        ]
+      },
+      "id": "way/1062272279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062272280",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Serambi Kencana",
+        "leisure": "park",
+        "name": "RTH Komplek",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587844,
+          -6.9328617
+        ]
+      },
+      "id": "way/1062272280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062571886",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Bukit Dago Selatan G5",
+        "leisure": "park",
+        "name": "Taman Bukit Dago",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619726,
+          -6.8686399
+        ]
+      },
+      "id": "way/1062571886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062571887",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan ir. H. Djuanda",
+        "leisure": "park",
+        "name": "TAMAN MASJID YAYASAN NURUL JAMIL",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6186368,
+          -6.870723
+        ]
+      },
+      "id": "way/1062571887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062571888",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Kopo Gang. Babakan Rahayu",
+        "leisure": "park",
+        "name": "Taman RW 07",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5888398,
+          -6.9415714
+        ]
+      },
+      "id": "way/1062571888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062571889",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Citarip Wetan RT 05 RW 09",
+        "leisure": "park",
+        "name": "Taman RT 05 RW 09",
+        "opening_hours": "24/7",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5878153,
+          -6.9398616
+        ]
+      },
+      "id": "way/1062571889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1072181298",
+        "description": "playground",
+        "leisure": "park",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5900257,
+          -6.8887936
+        ]
+      },
+      "id": "way/1072181298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144614051",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7074703,
+          -6.8980004
+        ]
+      },
+      "id": "way/1144614051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144615026",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6302655,
+          -6.9608789
+        ]
+      },
+      "id": "way/1144615026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144632064",
+        "leisure": "park",
+        "name": "Taman Kota Tegal Lega",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6047158,
+          -6.9361544
+        ]
+      },
+      "id": "way/1144632064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145012416",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.612558,
+          -6.8906458
+        ]
+      },
+      "id": "way/1145012416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145535927",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6860314,
+          -6.9299914
+        ]
+      },
+      "id": "way/1145535927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145541334",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6866846,
+          -6.9265771
+        ]
+      },
+      "id": "way/1145541334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145541355",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6855699,
+          -6.9266196
+        ]
+      },
+      "id": "way/1145541355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145546210",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6847091,
+          -6.9272908
+        ]
+      },
+      "id": "way/1145546210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145546226",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6849578,
+          -6.9272369
+        ]
+      },
+      "id": "way/1145546226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1158286001",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603693,
+          -6.9134795
+        ]
+      },
+      "id": "way/1158286001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160465548",
+        "access": "private",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6080149,
+          -6.9079532
+        ]
+      },
+      "id": "way/1160465548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160536547",
+        "building": "yes",
+        "layer": "1",
+        "name": "JPO Asia Afrika",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079508,
+          -6.9212536
+        ]
+      },
+      "id": "way/1160536547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1161291496",
+        "leisure": "park",
+        "name": "Taman Lansia",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6311992,
+          -6.8975856
+        ]
+      },
+      "id": "way/1161291496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1161294653",
+        "leisure": "park",
+        "name": "Taman Cidadap",
+        "source": "POI_WRI_Survey_2023",
+        "tactile_paving": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599521,
+          -6.8738582
+        ]
+      },
+      "id": "way/1161294653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1167333906",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5879734,
+          -6.8658706
+        ]
+      },
+      "id": "way/1167333906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181953859",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7157528,
+          -6.9394956
+        ]
+      },
+      "id": "way/1181953859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1196687481",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6341046,
+          -6.9482151
+        ]
+      },
+      "id": "way/1196687481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1197094105",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117661,
+          -6.8925645
+        ]
+      },
+      "id": "way/1197094105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1197847831",
+        "leisure": "park",
+        "name": "Bundaran Cibeureum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5743753,
+          -6.9171947
+        ]
+      },
+      "id": "way/1197847831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1198062399",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7032245,
+          -6.9478838
+        ]
+      },
+      "id": "way/1198062399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1200653171",
+        "leisure": "park",
+        "name": "Taman Sumringah",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6942549,
+          -6.9548497
+        ]
+      },
+      "id": "way/1200653171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206534713",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6199641,
+          -6.9018994
+        ]
+      },
+      "id": "way/1206534713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1215285822",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7143755,
+          -6.935673
+        ]
+      },
+      "id": "way/1215285822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1217229958",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7031734,
+          -6.9650779
+        ]
+      },
+      "id": "way/1217229958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1222527778",
+        "fee": "yes",
+        "landuse": "grass",
+        "leisure": "park",
+        "name": "Taman Tepi Kota",
+        "opening_hours": "Mo-Fr 11:00-20:00, Sa-Su 08:00-20:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6697666,
+          -6.910487
+        ]
+      },
+      "id": "way/1222527778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1230799375",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6750746,
+          -6.9188904
+        ]
+      },
+      "id": "way/1230799375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1230842025",
+        "landuse": "recreation_ground",
+        "leisure": "park",
+        "name": "Taman Gantole",
+        "surface": "unpaved",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6718104,
+          -6.9241193
+        ]
+      },
+      "id": "way/1230842025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1230970262",
+        "leisure": "park",
+        "name": "Local Field",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6129168,
+          -6.8808607
+        ]
+      },
+      "id": "way/1230970262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1231034299",
+        "leisure": "park",
+        "name": "Taman Al Qolam",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604853,
+          -6.8671798
+        ]
+      },
+      "id": "way/1231034299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1243176756",
+        "leisure": "park",
+        "name": "Taman Danau Tilu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6960129,
+          -6.9586244
+        ]
+      },
+      "id": "way/1243176756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1282745289",
+        "leisure": "park",
+        "name": "Lapangan Perumahan Al-Islam",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6565906,
+          -6.9496327
+        ]
+      },
+      "id": "way/1282745289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1282745294",
+        "leisure": "park",
+        "name": "Taman Kalkun",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6598125,
+          -6.9467401
+        ]
+      },
+      "id": "way/1282745294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1282745295",
+        "leisure": "park",
+        "name": "Taman Galaxy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6571095,
+          -6.9498564
+        ]
+      },
+      "id": "way/1282745295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1284642671",
+        "leisure": "park",
+        "name": "Taman Inklusi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6155682,
+          -6.9088375
+        ]
+      },
+      "id": "way/1284642671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1293670807",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5929859,
+          -6.8600276
+        ]
+      },
+      "id": "way/1293670807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1293744195",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5892931,
+          -6.8618193
+        ]
+      },
+      "id": "way/1293744195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1299816104",
+        "leisure": "park",
+        "name": "Taman Cisatu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603088,
+          -6.8732065
+        ]
+      },
+      "id": "way/1299816104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303199209",
+        "leisure": "park",
+        "name": "Taman Payung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6064926,
+          -6.8752518
+        ]
+      },
+      "id": "way/1303199209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303199211",
+        "leisure": "park",
+        "name": "Taman Pohon FISIP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6057866,
+          -6.8750181
+        ]
+      },
+      "id": "way/1303199211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303199215",
+        "leisure": "park",
+        "name": "Taman Hukum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6054071,
+          -6.8746214
+        ]
+      },
+      "id": "way/1303199215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303199225",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6061302,
+          -6.8748413
+        ]
+      },
+      "id": "way/1303199225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303199227",
+        "leisure": "park",
+        "name": "Taman Rektorat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6047013,
+          -6.8750834
+        ]
+      },
+      "id": "way/1303199227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303199228",
+        "leisure": "park",
+        "name": "Water Tower Oranye",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60497,
+          -6.8754024
+        ]
+      },
+      "id": "way/1303199228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1303199230",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604625,
+          -6.8758842
+        ]
+      },
+      "id": "way/1303199230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1304785725",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6111111,
+          -6.9120765
+        ]
+      },
+      "id": "way/1304785725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1306208575",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6113467,
+          -6.8824408
+        ]
+      },
+      "id": "way/1306208575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1306237712",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6113334,
+          -6.8823216
+        ]
+      },
+      "id": "way/1306237712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317357915",
+        "leisure": "park",
+        "name": "Tulip Park 1",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7041586,
+          -6.9666096
+        ]
+      },
+      "id": "way/1317357915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317358129",
+        "leisure": "park",
+        "name": "Tulip Park 2",
+        "opening_hours": "24/7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7014494,
+          -6.9667914
+        ]
+      },
+      "id": "way/1317358129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1317358473",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7023311,
+          -6.9672316
+        ]
+      },
+      "id": "way/1317358473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1349368391",
+        "leisure": "park",
+        "name": "Pohon Hukum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6051989,
+          -6.8743213
+        ]
+      },
+      "id": "way/1349368391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1351095918",
+        "leisure": "park",
+        "name": "Lapangan SD Sukaasih Atas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6856471,
+          -6.9006743
+        ]
+      },
+      "id": "way/1351095918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366969329",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6288707,
+          -6.9619857
+        ]
+      },
+      "id": "way/1366969329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366969330",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6281616,
+          -6.9618224
+        ]
+      },
+      "id": "way/1366969330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366969333",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6345589,
+          -6.9580239
+        ]
+      },
+      "id": "way/1366969333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1366969334",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6352413,
+          -6.9581577
+        ]
+      },
+      "id": "way/1366969334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370428453",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6214767,
+          -6.9420221
+        ]
+      },
+      "id": "way/1370428453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370428454",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6214585,
+          -6.9463651
+        ]
+      },
+      "id": "way/1370428454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370731189",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6070175,
+          -6.9230599
+        ]
+      },
+      "id": "way/1370731189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1381663440",
+        "landuse": "retail",
+        "name": "Kawasan Jalan Braga",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6093249,
+          -6.9179393
+        ]
+      },
+      "id": "way/1381663440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1382606712",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6073731,
+          -6.9143774
+        ]
+      },
+      "id": "way/1382606712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1390684163",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6735113,
+          -6.93191
+        ]
+      },
+      "id": "way/1390684163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1390684164",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6749644,
+          -6.9339072
+        ]
+      },
+      "id": "way/1390684164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1414425518",
+        "access": "private",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6328835,
+          -6.9123326
+        ]
+      },
+      "id": "way/1414425518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1414425520",
+        "access": "private",
+        "leisure": "park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632186,
+          -6.9110898
+        ]
+      },
+      "id": "way/1414425520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3754824465",
+        "name": "Kopi Aroma",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6062699,
+          -6.9174718
+        ]
+      },
+      "id": "node/3754824465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338249203",
+        "building": "yes",
+        "name": "Iris Garden",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6262382,
+          -6.9633866
+        ]
+      },
+      "id": "node/4338249203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4451042091",
+        "name": "Egioto.com",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5775872,
+          -6.8672308
+        ]
+      },
+      "id": "node/4451042091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5312537881",
+        "fee": "no",
+        "name": "Pintu Masuk Forest Walk Babakan Siliwangi",
+        "opening_hours": "24/7",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6097305,
+          -6.8852505
+        ]
+      },
+      "id": "node/5312537881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5503920859",
+        "name": "Sumur Bandung",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6085001,
+          -6.9207697
+        ]
+      },
+      "id": "node/5503920859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638762921",
+        "name": "Jalan Sukamaju",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7061898,
+          -6.9238106
+        ]
+      },
+      "id": "node/5638762921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5654460921",
+        "name": "Flyover Pelangi Antapani",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6437018,
+          -6.9137166
+        ]
+      },
+      "id": "node/5654460921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5686426821",
+        "name": "Shoes and bags shopping street",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5940721,
+          -6.9492258
+        ]
+      },
+      "id": "node/5686426821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5778956253",
+        "name": "Gedung Denzibang",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6450405,
+          -6.9400217
+        ]
+      },
+      "id": "node/5778956253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824553653",
+        "name": "Perumahan Sukaasih",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6860279,
+          -6.907019
+        ]
+      },
+      "id": "node/5824553653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6009237968",
+        "leisure": "park",
+        "name": "Lapang Karet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603128,
+          -6.8892711
+        ]
+      },
+      "id": "node/6009237968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6123051585",
+        "name": "Jalan Cipaera",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6242637,
+          -6.9216966
+        ]
+      },
+      "id": "node/6123051585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149684552",
+        "description": "Road closed for cars and street full of food, music, dance and other activities.",
+        "name": "Dago Car Free Day",
+        "opening_hours": "Su 06:00-10:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6127886,
+          -6.8982172
+        ]
+      },
+      "id": "node/6149684552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6265263186",
+        "name": "Jalan Majalengka Dalam",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6304563,
+          -6.919637
+        ]
+      },
+      "id": "node/6265263186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6342441385",
+        "name": "Jalan Sukasari II",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6207279,
+          -6.8923537
+        ]
+      },
+      "id": "node/6342441385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7246694685",
+        "amenity": "place_of_worship",
+        "name": "Mesjid Al-Hidayah",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6205837,
+          -6.8893846
+        ]
+      },
+      "id": "node/7246694685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7466927526",
+        "leisure": "park",
+        "name": "Lapangan Volly Sadang Serang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6250383,
+          -6.8922483
+        ]
+      },
+      "id": "node/7466927526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7466927551",
+        "leisure": "park",
+        "name": "Lapangan Bulutangkis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6246856,
+          -6.8927674
+        ]
+      },
+      "id": "node/7466927551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7959513585",
+        "name": "Warung Gombong Teh Andra",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6215938,
+          -6.8886001
+        ]
+      },
+      "id": "node/7959513585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8434131078",
+        "leisure": "park",
+        "name": "Taman Permata Permai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6780591,
+          -6.9220421
+        ]
+      },
+      "id": "node/8434131078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9269437521",
+        "leisure": "park",
+        "name": "Bandung Lautan Api"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6027267,
+          -6.9358185
+        ]
+      },
+      "id": "node/9269437521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9676888751",
+        "leisure": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6155957,
+          -6.8705228
+        ]
+      },
+      "id": "node/9676888751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9726770690",
+        "leisure": "park",
+        "name": "Open Space"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7192431,
+          -6.9354175
+        ]
+      },
+      "id": "node/9726770690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9938445753",
+        "name": "Kampung Korea Bandung",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6406431,
+          -6.9155688
+        ]
+      },
+      "id": "node/9938445753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9938653539",
+        "leisure": "park",
+        "name": "Taman Asia Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6423465,
+          -6.9165381
+        ]
+      },
+      "id": "node/9938653539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9942070649",
+        "leisure": "park",
+        "name": "Taman Metrologi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5966206,
+          -6.8857564
+        ]
+      },
+      "id": "node/9942070649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9942077640",
+        "leisure": "park",
+        "name": "Taman Gaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5989885,
+          -6.8810174
+        ]
+      },
+      "id": "node/9942077640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10793585060",
+        "name": "Taman Braga",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6101042,
+          -6.9198661
+        ]
+      },
+      "id": "node/10793585060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10793588346",
+        "inscription": "\"Dan Bandung bagiku bukan cuma masalah geografis, lebih jauh dari itu melibatkan perasaan, yang bersamaku ketika sunyi\" -Pidi Baiq",
+        "name": "Kutipan Pidi Baiq",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079663,
+          -6.9211786
+        ]
+      },
+      "id": "node/10793588346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10793588347",
+        "inscription": "\"Bumi Pasundan lahir ketika Tuhan sedang tersenyum\" -M.A.W. Brouwer",
+        "name": "Kutipan M.A.W. Brouwer",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079409,
+          -6.9213202
+        ]
+      },
+      "id": "node/10793588347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10996585701",
+        "addr:city": "Kota Bandung",
+        "addr:housenumber": "Lantai 3",
+        "addr:postcode": "40115",
+        "addr:street": "Bandung Indah Plaza - Lantai 3, Jl. Merdeka No.56, Citarum, Kec. Bandung Wetan",
+        "leisure": "park",
+        "name": "Seasons Playground",
+        "operator": "Seasons Playground",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6110814,
+          -6.9083679
+        ]
+      },
+      "id": "node/10996585701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11048805968",
+        "direction": "S",
+        "name": "Gedung Sate",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6187721,
+          -6.9014986
+        ]
+      },
+      "id": "node/11048805968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11064992945",
+        "name": "Lengkong Night Street Food",
+        "opening_hours": "Mo-Su 18:00-00:00",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6134721,
+          -6.9232638
+        ]
+      },
+      "id": "node/11064992945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11415319631",
+        "min_age": "18",
+        "name:en": "Saritem Redlight Disrtict",
+        "name:ja": "サリテム置屋街",
+        "name:ko": "매음굴 집중 지역",
+        "name:zh": "妓院集中区域",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5976408,
+          -6.9179729
+        ]
+      },
+      "id": "node/11415319631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11539070161",
+        "name": "Atrium Cibadag",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6986129,
+          -6.955307
+        ]
+      },
+      "id": "node/11539070161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11539070162",
+        "name": "Atrium Cileutik",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6982585,
+          -6.9544782
+        ]
+      },
+      "id": "node/11539070162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11539070163",
+        "name": "Atrium Ciunik",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.697333,
+          -6.9558207
+        ]
+      },
+      "id": "node/11539070163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12064456186",
+        "name": "PTDI Factory tour Bandros start",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58486,
+          -6.9018405
+        ]
+      },
+      "id": "node/12064456186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12073059377",
+        "leisure": "park",
+        "name": "Sister City Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6130041,
+          -6.9071181
+        ]
+      },
+      "id": "node/12073059377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12090565556",
+        "name": "Dunia Antariksa",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5958408,
+          -6.8877461
+        ]
+      },
+      "id": "node/12090565556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12438944086",
+        "name": "Sawarga Courtyard",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6978004,
+          -6.9552611
+        ]
+      },
+      "id": "node/12438944086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12488357574",
+        "leisure": "park",
+        "name": "Kontrakan bp dodo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6536103,
+          -6.9452117
+        ]
+      },
+      "id": "node/12488357574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12624763934",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:district": "Cicadas",
+        "addr:province": "Jawa Barat",
+        "addr:street": "Jalan Pramukha XIII",
+        "leisure": "park",
+        "name": "Taman SD dan SMA 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6359433,
+          -6.9038284
+        ]
+      },
+      "id": "node/12624763934"
+    }
+  ]
+}

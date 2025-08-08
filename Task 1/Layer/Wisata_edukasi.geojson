@@ -1,0 +1,4993 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-08-06T15:53:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32042131",
+        "amenity": "university",
+        "created_by": "JOSM",
+        "name": "Ariyanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5973817,
+          -6.9050969
+        ]
+      },
+      "id": "node/32042131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119439453",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Kawasan ITB Kampus Ganesa, Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "4",
+        "building:roof": "concrete",
+        "building:structure": "reinforced_masonry",
+        "building:use": "education",
+        "building:walls": "brick",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Perpustakaan Pusat ITB",
+        "opening_hours": "Mo-Fr 08:30-21:00",
+        "operator": "Institut Teknologi Bandung",
+        "operator:type": "public",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q115850574",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6107329,
+          -6.8882689
+        ]
+      },
+      "id": "way/119439453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119446867",
+        "amenity": "university",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "education",
+        "building:walls": "brick",
+        "name": "MBA ITB",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6093502,
+          -6.8944503
+        ]
+      },
+      "id": "way/119446867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119449643",
+        "amenity": "college",
+        "building": "yes",
+        "building:levels": "3",
+        "building:roof": "concrete",
+        "building:structure": "plastered",
+        "building:use": "education",
+        "building:walls": "brick",
+        "name": "STIKES Borromeus",
+        "name:en": "Stikes Borromeus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6126292,
+          -6.8943275
+        ]
+      },
+      "id": "way/119449643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119760179",
+        "addr:city": "Bandung",
+        "addr:street": "Jl. Merdeka No.33, Babakan Ciamis, Sumur Bandung",
+        "amenity": "college",
+        "building": "college",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "education",
+        "building:walls": "brick",
+        "name": "Akademi Akuntansi Bandung",
+        "source": "S2City_POI_2022",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6103092,
+          -6.9089129
+        ]
+      },
+      "id": "way/119760179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119760341",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "education",
+        "building:walls": "brick",
+        "name": "UNPAR Library",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6102202,
+          -6.9096906
+        ]
+      },
+      "id": "way/119760341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119880466",
+        "historic": "monument",
+        "name": "Bandung Sister Cities -  Fort Worth, Texas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6083747,
+          -6.9091996
+        ]
+      },
+      "id": "way/119880466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119880736",
+        "building": "yes",
+        "building:levels": "1",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "multipurpose",
+        "building:walls": "brick",
+        "fee": "no",
+        "name": "Gedung Indonesia Menggugat",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079414,
+          -6.9134169
+        ]
+      },
+      "id": "way/119880736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124282339",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jl. Dipati Ukur No.35, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "4",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:use": "education",
+        "building:walls": "brick",
+        "name": "Perpustakaan Mochtar Kusumaatmadja",
+        "operator": "UNPAD",
+        "website": "http://lib.fh.unpad.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6169419,
+          -6.8930168
+        ]
+      },
+      "id": "way/124282339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125174070",
+        "addr:city": "Bandung",
+        "addr:housenumber": "57",
+        "addr:postcode": "40122",
+        "addr:street": "Jalan Diponegoro",
+        "building": "yes",
+        "building:levels": "3",
+        "fee": "yes",
+        "museum": "history",
+        "name": "Museum Geologi",
+        "opening_hours": "Mo-Th 08:00-16:00; Sa, Su 08:00-14:00",
+        "operator": "Goverment",
+        "operator:type": "public/government",
+        "phone": "+62 22-7213822",
+        "start_date": "1929-05-16",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "website": "http://museum.geology.esdm.go.id",
+        "wheelchair": "yes",
+        "wikidata": "Q7475825",
+        "wikimedia_commons": "Category:Geology Museum in Bandung",
+        "wikipedia": "en:Bandung Geological Museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6214745,
+          -6.900453
+        ]
+      },
+      "id": "way/125174070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152614328",
+        "addr:city": "Bandung",
+        "addr:housenumber": "229",
+        "addr:postcode": "40154",
+        "addr:street": "Jalan Dr Setiabudhi",
+        "amenity": "library",
+        "building": "yes",
+        "building:colour": "grey",
+        "building:levels": "4",
+        "building:part": "yes",
+        "name": "Perpustakaan UPI",
+        "name:id": "UPI NET",
+        "opening_hours": "Mo-Sa 09:00-15:00",
+        "operator": "UPI",
+        "operator:type": "public",
+        "roof:colour": "grey",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q115862389",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5916878,
+          -6.8610554
+        ]
+      },
+      "id": "way/152614328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152783409",
+        "amenity": "university",
+        "name": "Sekolah Tinggi Pariwisata Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5946631,
+          -6.8690826
+        ]
+      },
+      "id": "way/152783409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152792941",
+        "amenity": "university",
+        "name": "Universitas Pasundan (UNPAS) Kampus IV",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5929064,
+          -6.8663354
+        ]
+      },
+      "id": "way/152792941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152843591",
+        "amenity": "college",
+        "name": "Pusdiklat Pos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5759471,
+          -6.873309
+        ]
+      },
+      "id": "way/152843591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152933148",
+        "amenity": "community_centre",
+        "building": "yes",
+        "building:colour": "grey",
+        "building:levels": "2",
+        "building:part": "yes",
+        "name": "Pusat Kegiatan Mahasiswa (PKM) UPI",
+        "operator": "UPI",
+        "roof:colour": "grey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937315,
+          -6.8623939
+        ]
+      },
+      "id": "way/152933148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152981734",
+        "addr:city": "Bandung",
+        "addr:housenumber": "65",
+        "addr:street": "Jalan Prof. Drg. Surya Sumantri",
+        "amenity": "university",
+        "name": "Universitas Kristen Maranatha",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5804421,
+          -6.8866277
+        ]
+      },
+      "id": "way/152981734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152982392",
+        "addr:city": "Bandung",
+        "addr:housenumber": "91",
+        "addr:postcode": "40152",
+        "addr:street": "Jalan Profesor Dokter Sutami",
+        "building": "yes",
+        "museum": "art",
+        "name": "Museum Barli",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "phone": "(022)2011898",
+        "tactile_paving": "no",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q97241063",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5875461,
+          -6.878398
+        ]
+      },
+      "id": "way/152982392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152985244",
+        "amenity": "university",
+        "description": "Telkom Corporate University, Bandung, Indonesia",
+        "name": "Telkom Corporate University",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5884248,
+          -6.8718372
+        ]
+      },
+      "id": "way/152985244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153882684",
+        "amenity": "university",
+        "building": "yes",
+        "name": "STBA Yapari Aba",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6046065,
+          -6.8921749
+        ]
+      },
+      "id": "way/153882684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154056328",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Grha Widya Maranatha",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5807858,
+          -6.8866076
+        ]
+      },
+      "id": "way/154056328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154175422",
+        "amenity": "college",
+        "name": "Pusdiklat Ir. H. Djuanda",
+        "official_name": "Pusat Pendidikan dan Pelatihan Ir. H. Djuanda",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6348444,
+          -6.9203086
+        ]
+      },
+      "id": "way/154175422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154217983",
+        "addr:city": "Bandung",
+        "addr:postcode": "40286",
+        "addr:street": "Jalan Kawaluyaan Indah II",
+        "amenity": "library",
+        "building": "office",
+        "government": "public_service",
+        "name": "Dinas Perpustakaan dan Kearsipan Daerah",
+        "office": "government",
+        "official_name": "Dinas Perpustakaan dan Kearsipan Provinsi Jawa Barat",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "short_name": "Dispusipda Jabar",
+        "website": "https://dispusipda.jabarprov.go.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6629621,
+          -6.9344455
+        ]
+      },
+      "id": "way/154217983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166968559",
+        "addr:city": "Bandung",
+        "addr:housenumber": "65",
+        "addr:postcode": "40111",
+        "addr:street": "Jalan Asia Afrika",
+        "building": "yes",
+        "fee": "no",
+        "museum": "history",
+        "name": "Museum Konferensi Asia-Afrika",
+        "name:ja": "アジア・アフリカ会議博物館",
+        "opening_hours": "Tu 09:00-15:00; Th 09:00-15:00; Sa, Su 09:00-15:00",
+        "operator": "government",
+        "operator:type": "public/government",
+        "phone": "(022)4233564",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "website": "https://www.asiafricamuseum.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q10972781",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6095551,
+          -6.9210718
+        ]
+      },
+      "id": "way/166968559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174044215",
+        "access:roof": "no",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Hayam Wuruk No. 34-38, Citarum, Bandung Wetan",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "4",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "capacity:persons": "250",
+        "name": "STIA Lembaga Administrasi Negara",
+        "office": "government",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6208323,
+          -6.9031519
+        ]
+      },
+      "id": "way/174044215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177629384",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "addr:housenumber": "10-12",
+        "addr:postcode": "40132",
+        "addr:street": "Ganesha",
+        "alt_name": "ITB",
+        "amenity": "university",
+        "area": "yes",
+        "int_name": "Bandung Technology Institute",
+        "name": "Institut Teknologi Bandung",
+        "name:en": "Bandung Institute of Technology",
+        "name:ja": "バンドゥン工科大学",
+        "operator": "Kementerian Riset, Teknologi dan Pendidikan Tinggi",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "wikidata": "Q1579397",
+        "wikipedia": "en:Bandung Institute of Technology",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.610451,
+          -6.8904916
+        ]
+      },
+      "id": "way/177629384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190606798",
+        "amenity": "college",
+        "name": "Ariyanti",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5972244,
+          -6.9051075
+        ]
+      },
+      "id": "way/190606798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/287215117",
+        "alt_name": "UIN Sunan Gunung Djati",
+        "amenity": "university",
+        "name": "Universitas Islam Negeri Sunan Gunung Djati",
+        "short_name": "UIN SGD",
+        "website": "https://uinsgd.ac.id",
+        "wikidata": "Q13098212",
+        "wikipedia": "id:Universitas Islam Negeri Sunan Gunung Djati",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7174855,
+          -6.9308588
+        ]
+      },
+      "id": "way/287215117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289974528",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan Rachmat Djatnika",
+        "opening_hours": "Mo-Sa 08:00-16:00",
+        "operator": "UIN",
+        "operator:type": "public",
+        "phone": "0227800525",
+        "tactile_paving": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q115862588",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7169468,
+          -6.9312957
+        ]
+      },
+      "id": "way/289974528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299053014",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dipatiukur No.112-116, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat",
+        "addr:housenumber": "12",
+        "addr:street": "Jalan Dipatiukur",
+        "amenity": "university",
+        "name": "Universitas Komputer Indonesia",
+        "operator:type": "private",
+        "phone": "+62 22 2504119",
+        "source": "S2City_POI_2022",
+        "website": "https://unikom.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.615439,
+          -6.8870576
+        ]
+      },
+      "id": "way/299053014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299054017",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dipatiukur No.85 B",
+        "addr:housenumber": "82",
+        "addr:street": "Jalan Dipatiukur",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "5",
+        "name": "Institut Teknologi Harapan Bangsa",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6160237,
+          -6.888923
+        ]
+      },
+      "id": "way/299054017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299080058",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dipatiukur No. 23",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "3",
+        "name": "Magister Manajemen Universitas Padjadjaran",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6179279,
+          -6.8948153
+        ]
+      },
+      "id": "way/299080058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306789008",
+        "addr:city": "Bandung",
+        "addr:housenumber": "28",
+        "addr:street": "Jl. Jakarta",
+        "amenity": "university",
+        "description": "Kampus STMIK \"AMIKBANDUNG\"",
+        "email": "info@stmik-amikbandung.ac.id",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "STMIK \"AMIKBANDUNG\"",
+        "phone": "+62 22 7271136",
+        "website": "https://stmik-amikbandung.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6383068,
+          -6.9152112
+        ]
+      },
+      "id": "way/306789008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/320409401",
+        "amenity": "college",
+        "name": "STIE Ekuitas",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6378766,
+          -6.898013
+        ]
+      },
+      "id": "way/320409401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/376626831",
+        "access": "yes",
+        "highway": "footway",
+        "historic": "monument",
+        "junction": "roundabout",
+        "name": "Tugu Soekarno",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6103705,
+          -6.8909125
+        ]
+      },
+      "id": "way/376626831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381032894",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Fakultas Kedokteran Unisba",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6087373,
+          -6.9033264
+        ]
+      },
+      "id": "way/381032894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381032929",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jl. Tamansari No.8, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat",
+        "air_conditioning": "yes",
+        "amenity": "library",
+        "building": "yes",
+        "name": "UPT Perpustakaan Universitas Pasundan",
+        "phone": "+62 22 4236 182",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6085321,
+          -6.901876
+        ]
+      },
+      "id": "way/381032929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655698",
+        "addr:city": "Bandung",
+        "addr:postcode": "40286",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Aula RW.002",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6645522,
+          -6.9427432
+        ]
+      },
+      "id": "way/383655698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/385364426",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan Pusat Sumber Daya Air Tanah dan Geologi Lingkungan",
+        "operator": "BGL ESDM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6200131,
+          -6.9004976
+        ]
+      },
+      "id": "way/385364426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/416542356",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Tamansari No 1",
+        "amenity": "university",
+        "name": "Universitas Islam Bandung",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6078385,
+          -6.9034335
+        ]
+      },
+      "id": "way/416542356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455732694",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Politeknik Kesehatan Kemenkes Bandung Jurusan Keperawatan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5989535,
+          -6.9009937
+        ]
+      },
+      "id": "way/455732694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512050480",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Kampus 2 Sekolah Tinggi Ilmu Keperawatan PPNI Jawa Barat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5947436,
+          -6.9001513
+        ]
+      },
+      "id": "way/512050480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512057479",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Politeknik Kesehatan Kemenkes Bandung Jurusan Promosi Kesehatan",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5980244,
+          -6.9010847
+        ]
+      },
+      "id": "way/512057479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512692645",
+        "access": "customers",
+        "addr:city": "Bandung",
+        "addr:housenumber": "45",
+        "addr:postcode": "40114",
+        "addr:street": "Jalan Cibeunying Selatan",
+        "air_conditioning": "no",
+        "amenity": "library",
+        "baby_feeding": "no",
+        "building": "yes",
+        "email": "pustakalanalibrary@gmail.com",
+        "name": "Pustakalana Children's Library",
+        "opening_hours": "Mo-Th 09:30-15:30",
+        "phone": "+62 859 5136 0038",
+        "start_date": "2018",
+        "website": "https://opac.pustakalanalibrary.org/",
+        "wheelchair": "no",
+        "wikidata": "Q116776068",
+        "wikimedia_commons": "File:Interior_of_Library_of_Pustakalana_(1).jpg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6236801,
+          -6.9047363
+        ]
+      },
+      "id": "way/512692645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512695127",
+        "addr:city": "Bandung",
+        "addr:housenumber": "28",
+        "addr:postcode": "40114",
+        "addr:street": "Jalan Sabang",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Taman Bacaan Hendra",
+        "wikidata": "Q117272511",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6226823,
+          -6.9082788
+        ]
+      },
+      "id": "way/512695127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512704687",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. L. L. R.E. Martadinata 93-95, Citarum, Bandung Wetan",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "3",
+        "name": "Akademi Sekretari dan Manajemen Taruna Bakti",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6198315,
+          -6.9055014
+        ]
+      },
+      "id": "way/512704687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512704782",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. L. L. R.E. Martadinata No. 48, Citarum, Bandung Wetan",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Goethe Institut Bandung",
+        "opening_hours": "Mo-Fr 11:00-16:00",
+        "source": "S2City_POI_2022",
+        "training": "Bahasa",
+        "wheelchair": "limited",
+        "wikidata": "Q117286468",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.61798,
+          -6.906355
+        ]
+      },
+      "id": "way/512704782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512752681",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan Umum Disjarahad",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6159755,
+          -6.9144291
+        ]
+      },
+      "id": "way/512752681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/512884467",
+        "addr:city": "Bandung",
+        "addr:housenumber": "12-S",
+        "addr:postcode": "40113",
+        "addr:street": "Jalan Banda",
+        "amenity": "library",
+        "building": "yes",
+        "name": "PITIMOSS FUN LIBRARY",
+        "opening_hours": "10:00-20:00",
+        "operator": "Swasta",
+        "operator:type": "private",
+        "wheelchair": "limited",
+        "wikidata": "Q117272598",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6178763,
+          -6.9126607
+        ]
+      },
+      "id": "way/512884467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513014407",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:housenumber": "18",
+        "addr:postcode": "40112",
+        "addr:street": "Jalan Panaitan",
+        "amenity": "library",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Tobucil & Klabs",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "081214227499",
+        "wheelchair": "no",
+        "wikidata": "Q116776946",
+        "wikimedia_commons": "File:Tobucil & klabs.jpg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6171729,
+          -6.9187525
+        ]
+      },
+      "id": "way/513014407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513439021",
+        "access": "yes",
+        "addr:city": "Bandung",
+        "addr:housenumber": "61",
+        "addr:postcode": "40263",
+        "addr:street": "Jalan Malabar",
+        "amenity": "library",
+        "building": "yes",
+        "name": "TBM Elmuloka",
+        "opening_hours": "Mo-Sa 09.00 - 15.00",
+        "wikidata": "Q117273433",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6228305,
+          -6.9278715
+        ]
+      },
+      "id": "way/513439021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513698920",
+        "amenity": "college",
+        "building": "yes",
+        "name": "STT Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6011106,
+          -6.94824
+        ]
+      },
+      "id": "way/513698920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513811027",
+        "addr:city": "Bandung",
+        "addr:housenumber": "28",
+        "addr:postcode": "40262",
+        "addr:street": "Jalan Jenderal Gatot Subroto",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Librina Library & Creative Hub",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6217491,
+          -6.9231533
+        ]
+      },
+      "id": "way/513811027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514048757",
+        "addr:city": "Bandung",
+        "addr:street": "Jl. Pajajaran, Pasir Kaliki, Cicendo",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Politeknik Kesehatan Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6004232,
+          -6.9064965
+        ]
+      },
+      "id": "way/514048757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/514048928",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Cihampelas No 8 Bandung",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "3",
+        "name": "Sekolah Tinggi Hukum Bandung",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6046697,
+          -6.9066786
+        ]
+      },
+      "id": "way/514048928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519673073",
+        "addr:city": "Bandung",
+        "addr:housenumber": "7-9",
+        "addr:postcode": "40111",
+        "addr:street": "Jalan Naripan",
+        "building": "yes",
+        "name": "Galeri Pusat Kebudayaan",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "tourism": "gallery",
+        "wikidata": "Q10976493",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6103097,
+          -6.919651
+        ]
+      },
+      "id": "way/519673073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/520014242",
+        "addr:city": "Bandung",
+        "addr:housenumber": "226",
+        "addr:postcode": "40142",
+        "addr:street": "Jalan Bukit Raya Atas",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Rita Home Library",
+        "wikidata": "Q117289664",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6074857,
+          -6.8629672
+        ]
+      },
+      "id": "way/520014242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/522160848",
+        "addr:city": "Bandung",
+        "addr:housenumber": "126",
+        "addr:postcode": "40152",
+        "addr:street": "Jalan Sukahaji",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Nimna Bookcafe",
+        "wikidata": "Q117273407",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5851835,
+          -6.8704342
+        ]
+      },
+      "id": "way/522160848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/523767856",
+        "addr:city": "Bandung",
+        "addr:housenumber": "52",
+        "addr:postcode": "40141",
+        "addr:street": "Jalan Hegarmanah",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Kineruku",
+        "wikidata": "Q117273366",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6004641,
+          -6.8753684
+        ]
+      },
+      "id": "way/523767856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530035434",
+        "addr:city": "Kota Bandung",
+        "addr:country": "ID",
+        "addr:full": "Jl. Aceh No. 47, Babakan Ciamis, Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+        "addr:housenumber": "47",
+        "addr:postcode": "40117",
+        "addr:street": "Jalan Aceh",
+        "building": "yes",
+        "building:levels": "2",
+        "building:roof": "tile",
+        "building:structure": "reinforced_masonry",
+        "building:walls": "brick",
+        "fee": "yes",
+        "museum": "history",
+        "name": "Museum Kota Bandung",
+        "opening_hours": "Tu-Su 10:00-17:00",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q65212192",
+        "wikipedia": "id:Museum Kota Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6095781,
+          -6.9099764
+        ]
+      },
+      "id": "way/530035434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530164141",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Wastukencana No.52, Tamansari, Bandung Wetan, Kota Bandung, Jawa Barat 40116",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "3",
+        "name": "Sekolah Tinggi Desain Indonesia",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604634,
+          -6.904025
+        ]
+      },
+      "id": "way/530164141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/536660860",
+        "amenity": "college",
+        "building": "yes",
+        "name": "STIKES Dharma Husada Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6509024,
+          -6.9124835
+        ]
+      },
+      "id": "way/536660860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/545994901",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Sekeloa Selatan No. 1",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "2",
+        "name": "Magister Ilmu Lingkungan Universitas Padjadjaran",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6191693,
+          -6.8898538
+        ]
+      },
+      "id": "way/545994901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546598277",
+        "addr:city": "Bandung",
+        "addr:housenumber": "36",
+        "addr:postcode": "40132",
+        "addr:street": "Jalan Raden Patah",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Nutrihub",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6150059,
+          -6.8879018
+        ]
+      },
+      "id": "way/546598277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547799198",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jalan Pagar Gunung",
+        "amenity": "library",
+        "building": "yes",
+        "wikidata": "Q117273525",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6147222,
+          -6.8970116
+        ]
+      },
+      "id": "way/547799198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548474101",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Tamansari No 64",
+        "amenity": "university",
+        "name": "Rektorat ITB",
+        "operator": "ITB",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.610045,
+          -6.8988679
+        ]
+      },
+      "id": "way/548474101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548474102",
+        "addr:housenumber": "10",
+        "addr:street": "Jalan Ganesha",
+        "building": "yes",
+        "name": "Galeri Soemardja",
+        "opening_hours": "Tu-Fr 09:00-16:00",
+        "tourism": "gallery",
+        "wikidata": "Q65212157",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115509,
+          -6.8924445
+        ]
+      },
+      "id": "way/548474102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553793571",
+        "amenity": "university",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055553,
+          -6.8755524
+        ]
+      },
+      "id": "way/553793571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/553910797",
+        "amenity": "university",
+        "name": "Parahyangan University",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6055553,
+          -6.8755574
+        ]
+      },
+      "id": "way/553910797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/579089344",
+        "amenity": "university",
+        "building": "yes",
+        "name": "BJB University Braga",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6079254,
+          -6.9207411
+        ]
+      },
+      "id": "way/579089344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/616936974",
+        "addr:city": "Bandung",
+        "addr:housenumber": "171",
+        "addr:street": "JL Cikutra",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitas Bandung Raya (UNBAR)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6431688,
+          -6.9003193
+        ]
+      },
+      "id": "way/616936974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/630307504",
+        "addr:city": "Kel. Sukamiskin",
+        "addr:housenumber": "20",
+        "addr:postcode": "40293",
+        "addr:street": "Jalan Ski Air",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Agrarian Resource Center",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6736431,
+          -6.9238853
+        ]
+      },
+      "id": "way/630307504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632227110",
+        "addr:city": "Bandung",
+        "addr:district": "Regol Kota",
+        "addr:housenumber": "63",
+        "addr:street": "Jalan BKR",
+        "addr:subdistrict": "Ancol",
+        "amenity": "university",
+        "branch": "Bandung",
+        "building": "university",
+        "name": "Satu University",
+        "name:id": "Universitas SATU",
+        "operator": "BINUS Higher Education",
+        "website": "https://satu.ac.id",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6163532,
+          -6.9382901
+        ]
+      },
+      "id": "way/632227110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632655081",
+        "amenity": "college",
+        "building": "yes",
+        "name": "STIKES Aisyiyah Komplek Pendidikan Muhammadiyah Dan Aisyiyah Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6235411,
+          -6.9327936
+        ]
+      },
+      "id": "way/632655081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632678998",
+        "amenity": "library",
+        "brand": "Togamas",
+        "building": "commercial",
+        "building:use": "retail",
+        "name": "Togamas",
+        "opening_hours": "Sa-Su 09:00-21:00",
+        "shop": "books",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6242692,
+          -6.9393537
+        ]
+      },
+      "id": "way/632678998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632681565",
+        "addr:city": "Bandung",
+        "addr:postcode": "40265",
+        "addr:street": "Gedung Perpustakaan, Jl. Buah Batu No.212, Cijagra, Kec. Lengkong, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan ISBI Bandung",
+        "opening_hours": "Mo-Fr 08:00-15:30",
+        "operator": "Institut Seni Budaya Indonesia (ISBI) Bandung",
+        "website": "https://isbi.ac.id/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6277894,
+          -6.9426561
+        ]
+      },
+      "id": "way/632681565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/632681583",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Institut Seni Budaya Indonesia Bandung (ISBI)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6280004,
+          -6.9431393
+        ]
+      },
+      "id": "way/632681583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/633488663",
+        "amenity": "college",
+        "building": "yes",
+        "name": "Sekolah Tinggi Farmasi Indonesia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6297555,
+          -6.9496081
+        ]
+      },
+      "id": "way/633488663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/633530069",
+        "addr:city": "Bandung",
+        "addr:postcode": "40275",
+        "addr:street": "Jl. H. Basuki III, Binong, Kec. Batununggal, Kota Bandung, Jawa Barat 40275",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Gedung Padepokan Panglipur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6390068,
+          -6.9433367
+        ]
+      },
+      "id": "way/633530069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/633639650",
+        "amenity": "university",
+        "building": "university",
+        "name": "STT Mandala",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6441097,
+          -6.9442897
+        ]
+      },
+      "id": "way/633639650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/634325332",
+        "addr:city": "Bandung",
+        "addr:housenumber": "96",
+        "addr:postcode": "40213",
+        "addr:street": "Jalan Raya Cijerah",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Aneka G",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5697797,
+          -6.9202189
+        ]
+      },
+      "id": "way/634325332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/635946140",
+        "amenity": "college",
+        "building": "yes",
+        "name": "STMIK Mardira Indonesia Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5938537,
+          -6.9466883
+        ]
+      },
+      "id": "way/635946140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636133833",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Gedung Fakultas Teknik Universitas Nurtanio Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5805658,
+          -6.9053542
+        ]
+      },
+      "id": "way/636133833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636133871",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Gedung Fakultas Ilmu Komputer dan Informatika Univeritas Nurtanio Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5802933,
+          -6.906003
+        ]
+      },
+      "id": "way/636133871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636133872",
+        "amenity": "university",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5798827,
+          -6.9059219
+        ]
+      },
+      "id": "way/636133872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636133884",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Gedung Rektorat Universitas Nurtanio Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5806832,
+          -6.9061552
+        ]
+      },
+      "id": "way/636133884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636133887",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Gedung Fakultas Ekonomi Universitas Nurtanio Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5810989,
+          -6.9062343
+        ]
+      },
+      "id": "way/636133887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636133907",
+        "addr:city": "Bandung",
+        "addr:postcode": "40174",
+        "addr:street": "Jl. LMU Subagio No. 22 Kec. Cicendo",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan SMA Angkasa Lanud Husein Satranegara",
+        "operator": "SMA Angkasa Lanud Husein Satranegara",
+        "operator:type": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5828728,
+          -6.9063238
+        ]
+      },
+      "id": "way/636133907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/636453543",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Politeknik STTT Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6400832,
+          -6.91389
+        ]
+      },
+      "id": "way/636453543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/639151866",
+        "amenity": "university",
+        "building": "university",
+        "name": "STMIK STIE Dharma Negara",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6498902,
+          -6.9224295
+        ]
+      },
+      "id": "way/639151866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/640421864",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Universitas Sangga Buana YPKP Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.640293,
+          -6.8996047
+        ]
+      },
+      "id": "way/640421864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/699680449",
+        "addr:city": "Bandung",
+        "addr:housenumber": "229",
+        "addr:postcode": "40154",
+        "addr:street": "Setiabudi",
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Universitas Pendidikan Indonesia",
+        "name:en": "Indonesia University of Education",
+        "name:id": "UPI",
+        "name:su": "UPI Bandung",
+        "name:vi": "Đại học Giáo dục Indonesia",
+        "operator": "Kementerian Pendidikan dan Kebudayaan Republik Indonesia",
+        "website": "http://www.upi.edu/en",
+        "wikidata": "Q3213529",
+        "wikimedia_commons": "Category:Universitas Pendidikan Indonesia",
+        "wikipedia": "en:Indonesia University of Education",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5918048,
+          -6.8611429
+        ]
+      },
+      "id": "way/699680449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/700628085",
+        "addr:city": "Bandung",
+        "addr:housenumber": "229",
+        "addr:postcode": "40154",
+        "addr:street": "Jalan Dr. Setiabudi",
+        "building": "yes",
+        "museum": "history",
+        "name": "Museum Pendidikan Nasional UPI",
+        "opening_hours": "Mo-Th 09:00-11:15, 12:30-15:00; Fr 09:00-11:00, 13:00-15:30",
+        "operator": "Universitas Pendidikan Indonesia",
+        "operator:type": "public",
+        "phone": "+6281321512052",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "website": "https://museumpendidikannasional.upi.edu/",
+        "wheelchair": "yes",
+        "wikidata": "Q109001002",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5941633,
+          -6.8597763
+        ]
+      },
+      "id": "way/700628085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/721497808",
+        "amenity": "university",
+        "name": "Universitas Islam Nusantara",
+        "school:gender": "mixed",
+        "short_name": "Uninus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6444793,
+          -6.9454656
+        ]
+      },
+      "id": "way/721497808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/722711330",
+        "addr:city": "Bandung",
+        "addr:housenumber": "116",
+        "addr:street": "Jalan Karapitan",
+        "amenity": "university",
+        "name": "Universitas Langlangbuana",
+        "wikidata": "Q19744804",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6153351,
+          -6.9313097
+        ]
+      },
+      "id": "way/722711330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780065340",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Asrama/ Mess Mahasiswa Universitas Nurtanio Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5818264,
+          -6.9063335
+        ]
+      },
+      "id": "way/780065340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/895880084",
+        "addr:city": "Bandung",
+        "addr:postcode": "40275",
+        "addr:street": "Jl. H. Basuki III, Binong, Kec. Batununggal, Kota Bandung, Jawa Barat 40275",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Gedung Padepokan Panglipur",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6390325,
+          -6.9432055
+        ]
+      },
+      "id": "way/895880084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899798636",
+        "addr:city": "Bandung",
+        "addr:postcode": "40135",
+        "addr:street": "Jalan Bukit Dago Selatan No.53A",
+        "building": "yes",
+        "name": "Thee Huis Gallery",
+        "tourism": "gallery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6187672,
+          -6.8700976
+        ]
+      },
+      "id": "way/899798636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/899798638",
+        "addr:city": "Bandung",
+        "addr:postcode": "40191",
+        "addr:street": "Jl. Cigadung Raya Barat No.28A, Cigadung, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat 40191",
+        "building": "yes",
+        "name": "Galeri Kamones",
+        "tourism": "gallery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6229861,
+          -6.8734303
+        ]
+      },
+      "id": "way/899798638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/926512285",
+        "building": "yes",
+        "tourism": "gallery",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6128617,
+          -6.8807472
+        ]
+      },
+      "id": "way/926512285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932342036",
+        "addr:city": "Bandung",
+        "addr:housenumber": "59",
+        "addr:street": "Jl. PH.H. Mustofa , Neglasari, Cibeunying Kaler",
+        "amenity": "university",
+        "name": "Universitas Widyatama Pascasarjana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6427613,
+          -6.8994549
+        ]
+      },
+      "id": "way/932342036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/933791756",
+        "addr:city": "Bandung",
+        "addr:housenumber": "69",
+        "addr:street": "Jl. Pahlawan , Sukaluyu, Cibeunying Kaler",
+        "amenity": "university",
+        "name": "Universitas Winaya Mukti",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6342694,
+          -6.895732
+        ]
+      },
+      "id": "way/933791756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934223108",
+        "addr:city": "Bandung",
+        "historic": "monument",
+        "name": "Monumen Perjuangan Rakyat Jawa Barat",
+        "surface": "unpaved",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6185411,
+          -6.8934379
+        ]
+      },
+      "id": "way/934223108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/949946468",
+        "addr:city": "Bandung",
+        "addr:postcode": "40115",
+        "addr:street": "Jl. Seram No.2, Citarum, Kec. Bandung Wetan",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Dinas Arsip dan Perpustakaan Kota Bandung",
+        "opening_hours": "Mo-Fr 08:00-15:00",
+        "operator": "Dinas Arsip dan Perpustakaan Kota Bandung",
+        "operator:type": "government",
+        "website": "https://www.instagram.com/disarpuskotabdg/?hl=en",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6139744,
+          -6.9082997
+        ]
+      },
+      "id": "way/949946468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/990640382",
+        "area": "yes",
+        "historic": "yes",
+        "name": "Laswi Heritage",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6361232,
+          -6.9199859
+        ]
+      },
+      "id": "way/990640382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1014721911",
+        "historic": "monument",
+        "name": "Bandung Lautan Api",
+        "name:en": "Bandung Sea of Fire",
+        "wikidata": "Q2754428",
+        "wikipedia": "en:Bandung Sea of Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6049198,
+          -6.9338478
+        ]
+      },
+      "id": "node/1014721911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1017773394",
+        "addr:city": "Bandung",
+        "addr:full": "Jl Tamansari No 6-8",
+        "amenity": "university",
+        "name": "Universitas Pasundan",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6084253,
+          -6.9051133
+        ]
+      },
+      "id": "way/1017773394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1020623684",
+        "amenity": "library",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6075077,
+          -6.9219102
+        ]
+      },
+      "id": "way/1020623684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1061698503",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Gagak No. 15",
+        "amenity": "college",
+        "name": "STAI Sabili",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6242009,
+          -6.8975396
+        ]
+      },
+      "id": "way/1061698503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062314175",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Ir. H. Djuanda No. 438",
+        "amenity": "university",
+        "name": "PUSAT INOVASI PSIKOLOGI UNPAD",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6209023,
+          -6.8696862
+        ]
+      },
+      "id": "way/1062314175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062314176",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Bukit Dago Utara No.25, Dago, Kecamatan Coblong, Kota Bandung, Jawa Barat 40135",
+        "amenity": "university",
+        "name": "FISIP UNPAD PASCARASARJANA",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618218,
+          -6.8689769
+        ]
+      },
+      "id": "way/1062314176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062314177",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Kanayakan No.21, Dago, Kecamatan Coblong, Kota Bandung, Jawa Barat 40135",
+        "amenity": "university",
+        "name": "Politeknik Manufakturing Bandung (POLMAN)",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6206444,
+          -6.8769725
+        ]
+      },
+      "id": "way/1062314177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062317185",
+        "addr:city": "Bandung",
+        "addr:full": "Jl. Ir. H. Juanda No.367, Dago, Kecamatan Coblong, Kota Bandung, Jawa Barat 40135",
+        "amenity": "college",
+        "name": "Sekolah Tinggi Kesejahteraan Sosial",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190518,
+          -6.8724994
+        ]
+      },
+      "id": "way/1062317185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062365223",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Dipatiukur No.35, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132",
+        "amenity": "university",
+        "name": "Universitas Padjajaran",
+        "operator:type": "government",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6171347,
+          -6.893428
+        ]
+      },
+      "id": "way/1062365223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1062365225",
+        "addr:city": "Bandung",
+        "addr:full": "Jalan Ir. H. Djuanda No.162",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "2",
+        "name": "Unikom Pascasarjana",
+        "operator:type": "private",
+        "source": "S2City_POI_2022",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6140524,
+          -6.8860951
+        ]
+      },
+      "id": "way/1062365225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1111792669",
+        "addr:city": "Bandung",
+        "addr:postcode": "40285",
+        "addr:street": "Jl. Soekarno Hatta No.629, Sukapura, Kec. Kiaracondong, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Badan Perpustakaan Daerah Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6475493,
+          -6.9433149
+        ]
+      },
+      "id": "way/1111792669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1123638354",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan Ajip Rosidi",
+        "website": "https://perpustakaanajiprosidi.wordpress.com/",
+        "wikidata": "Q98645237",
+        "wikimedia_commons": "Category:Perpustakaan Ajip Rosidi",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6314454,
+          -6.9176493
+        ]
+      },
+      "id": "way/1123638354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1124747887",
+        "addr:city": "Bandung",
+        "addr:housenumber": "81",
+        "addr:postcode": "40112",
+        "addr:street": "Jalan Asia Afrika",
+        "building": "yes",
+        "building:levels": "2",
+        "fee": "no",
+        "museum": "art",
+        "name": "Museum Wolff Schoemaker (Preanger)",
+        "opening_hours": "Mo-Su 11:00-17:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q115861934",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117515,
+          -6.9209532
+        ]
+      },
+      "id": "way/1124747887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1124757470",
+        "addr:city": "Bandung",
+        "addr:housenumber": "38",
+        "addr:postcode": "40111",
+        "addr:street": "Jalan Lembong",
+        "building": "yes",
+        "museum": "history",
+        "name": "Museum Mandala Wangsit Siliwangi",
+        "opening_hours": "Mo-Sa 08:00-14:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "phone": "(022)4203393",
+        "tactile_paving": "yes",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q3658066",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6111022,
+          -6.917316
+        ]
+      },
+      "id": "way/1124757470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1126204061",
+        "amenity": "university",
+        "name": "Universitas Bhakti Kencana",
+        "website": "https://bku.ac.id",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7101246,
+          -6.9365753
+        ]
+      },
+      "id": "way/1126204061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1126204062",
+        "amenity": "university",
+        "name": "Universitas Muhammadiyah Bandung",
+        "website": "https://umbandung.ac.id",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7086654,
+          -6.9368816
+        ]
+      },
+      "id": "way/1126204062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1126204063",
+        "amenity": "university",
+        "name": "UIN Sunan Gunung Djati Kampus II",
+        "website": "https://uinsgd.ac.id",
+        "wikidata": "Q13098212",
+        "wikipedia": "id:Universitas Islam Negeri Sunan Gunung Djati",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7037785,
+          -6.9407622
+        ]
+      },
+      "id": "way/1126204063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144628242",
+        "building": "yes",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5619647,
+          -6.9493647
+        ]
+      },
+      "id": "way/1144628242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1145036821",
+        "addr:city": "Bandung",
+        "addr:street": "Jalan Surapati",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan Gasibu Jawa Barat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6182998,
+          -6.8995789
+        ]
+      },
+      "id": "way/1145036821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1149006922",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Perpustakaan SD Negeri 195/2 Isola",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5923035,
+          -6.8636773
+        ]
+      },
+      "id": "way/1149006922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156535947",
+        "addr:city": "Bandung",
+        "addr:postcode": "40124",
+        "addr:street": "Jalan Cikurta Baru V",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Ultimus",
+        "wikidata": "Q117272317",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6397894,
+          -6.8947964
+        ]
+      },
+      "id": "way/1156535947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156555473",
+        "addr:city": "Bandung",
+        "addr:housenumber": "103",
+        "addr:postcode": "40172",
+        "addr:street": "Jalan Bima",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Microlibrary Bima",
+        "opening_hours": "Mo-Su 08:30-16:30",
+        "wikidata": "Q117273900",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5914734,
+          -6.9079034
+        ]
+      },
+      "id": "way/1156555473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156572475",
+        "addr:city": "Bandung",
+        "addr:housenumber": "2",
+        "addr:postcode": "40191",
+        "addr:street": "Jalan Cigadung Raya Barat",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Little Wings",
+        "wikidata": "Q117273575",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6234825,
+          -6.876633
+        ]
+      },
+      "id": "way/1156572475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1156876252",
+        "addr:city": "Bandung",
+        "addr:housenumber": "226",
+        "addr:postcode": "40265",
+        "addr:street": "Jalan Buah Batu",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Aneka B",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6272098,
+          -6.9418309
+        ]
+      },
+      "id": "way/1156876252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1157113754",
+        "addr:city": "Bandung",
+        "addr:housenumber": "16",
+        "addr:postcode": "40191",
+        "addr:street": "Jalan Cibeunying Permai Raya",
+        "amenity": "library",
+        "building": "yes",
+        "name": "Rumah Baca Cibeunying",
+        "wikidata": "Q117289670",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.628528,
+          -6.888307
+        ]
+      },
+      "id": "way/1157113754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1157121633",
+        "addr:city": "Bandung",
+        "addr:postcode": "45474",
+        "addr:street": "Jalan CIrengot",
+        "amenity": "library",
+        "building": "yes",
+        "name": "TBM Sukamulya Cerdas",
+        "wikidata": "Q117289634",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6999802,
+          -6.9159648
+        ]
+      },
+      "id": "way/1157121633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162175608",
+        "amenity": "university",
+        "building": "university",
+        "name": "UNJANI Fakultas Teknologi Manufaktur",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6461073,
+          -6.9346462
+        ]
+      },
+      "id": "way/1162175608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162464528",
+        "amenity": "university",
+        "name": "Universitas Krida Nusantara",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7285571,
+          -6.9135887
+        ]
+      },
+      "id": "way/1162464528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162722629",
+        "amenity": "university",
+        "building": "university",
+        "name": "Universitas Informatika Dan Bisnis Indonesia (UNIBI)",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6502074,
+          -6.9421262
+        ]
+      },
+      "id": "way/1162722629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1162722720",
+        "amenity": "university",
+        "building": "university",
+        "name": "Akademi Keperawatan Kebon Jati",
+        "source": "POI_WRI_Survey_2023",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6567431,
+          -6.9356685
+        ]
+      },
+      "id": "way/1162722720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1193303186",
+        "historic": "monument",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6090998,
+          -6.9103731
+        ]
+      },
+      "id": "way/1193303186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1193303188",
+        "historic": "monument",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117507,
+          -6.8864442
+        ]
+      },
+      "id": "way/1193303188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1201149673",
+        "historic": "monument",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6024008,
+          -6.9025575
+        ]
+      },
+      "id": "way/1201149673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1302658821",
+        "amenity": "university",
+        "name": "Institut Teknologi Nasional Itenas Bandung",
+        "website": "https://www.itenas.ac.id/",
+        "wikidata": "Q12486661",
+        "wikipedia": "id:Institut Teknologi Nasional Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6364562,
+          -6.8971644
+        ]
+      },
+      "id": "way/1302658821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1341957623",
+        "amenity": "college",
+        "check_date": "2025-05-28",
+        "name": "TBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6133537,
+          -6.8878192
+        ]
+      },
+      "id": "node/1341957623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1342944408",
+        "addr:city": "Bandung",
+        "addr:housenumber": "4",
+        "addr:street": "Jl. Ir. H. Juanda",
+        "amenity": "university",
+        "name": "Universitas Padjajaran - Djuanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6109516,
+          -6.9061025
+        ]
+      },
+      "id": "node/1342944408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1342970055",
+        "amenity": "university",
+        "name": "Universitas Katolik Parahyangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6108713,
+          -6.9116663
+        ]
+      },
+      "id": "node/1342970055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1358497144",
+        "amenity": "community_centre",
+        "building": "yes",
+        "club": "yes",
+        "name": "Sawarna MC",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6075267,
+          -6.9193279
+        ]
+      },
+      "id": "way/1358497144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370426938",
+        "amenity": "university",
+        "name": "Universitas Inaba bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6227566,
+          -6.9499828
+        ]
+      },
+      "id": "way/1370426938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370426944",
+        "amenity": "college",
+        "name": "LPKIA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6246383,
+          -6.9501124
+        ]
+      },
+      "id": "way/1370426944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370429558",
+        "addr:city": "Kota Bandung",
+        "addr:housenumber": "185",
+        "addr:postcode": "40243",
+        "addr:street": "Jalan Peta",
+        "air_conditioning": "yes",
+        "description": "The museum features various items related with the province of West Java, such as Sundanese crafts, furnishings, geologic history, and natural diversity.",
+        "internet_access": "no",
+        "landuse": "tourism",
+        "museum": "history",
+        "name": "Museum Sri Baduga",
+        "opening_hours": "Mo-Su 08:00-15:00",
+        "operator": "Government",
+        "operator:type": "public/government",
+        "payment:cards": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "(022)5210976",
+        "source": "local knowledge",
+        "tactile_paving": "no",
+        "tourism": "museum",
+        "wheelchair": "no",
+        "wikidata": "Q3171723",
+        "wikimedia_commons": "Category:Sri Baduga Museum",
+        "wikipedia": "en:Sri Baduga Museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6035642,
+          -6.9377464
+        ]
+      },
+      "id": "way/1370429558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1382606728",
+        "historic": "monument",
+        "leisure": "garden",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.610368,
+          -6.914426
+        ]
+      },
+      "id": "way/1382606728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1385463068",
+        "amenity": "college",
+        "name": "LPP Bina Mandiri Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6213465,
+          -6.8848176
+        ]
+      },
+      "id": "node/1385463068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1390673872",
+        "amenity": "community_centre",
+        "building": "yes",
+        "community_centre": "community_hall",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6735615,
+          -6.9324909
+        ]
+      },
+      "id": "way/1390673872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1409308344",
+        "amenity": "university",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6279543,
+          -6.9430401
+        ]
+      },
+      "id": "way/1409308344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411416967",
+        "amenity": "university",
+        "name": "Universitas Terbuka Bandung",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7125805,
+          -6.9368682
+        ]
+      },
+      "id": "way/1411416967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1411443701",
+        "building": "prison",
+        "fee": "no",
+        "museum": "history",
+        "name": "Banceuy Prison Museum",
+        "name:id": "Monumen Lembaga Permasyarakatan Banceuy",
+        "operator": "Dinas Pariwisata Jawa Barat",
+        "operator:type": "government",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6069604,
+          -6.9195986
+        ]
+      },
+      "id": "way/1411443701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1414614334",
+        "amenity": "university",
+        "name": "Fakultas Hukum Universitas Padjadjaran",
+        "wikidata": "Q3181122",
+        "wikipedia": "en:Padjadjaran University",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6171581,
+          -6.9041033
+        ]
+      },
+      "id": "way/1414614334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1823875695",
+        "historic": "monument",
+        "name": "PDAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6107164,
+          -6.9056738
+        ]
+      },
+      "id": "node/1823875695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1956969150",
+        "addr:housenumber": "38",
+        "addr:street": "Jalan Lembong",
+        "description": "Army museum",
+        "fee": "no",
+        "name": "Museum Siliwangi",
+        "opening_hours": "Mo-Th 08:00-13:00; Fr 08:00-10:00; Sa 08:00-12:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6110914,
+          -6.9171828
+        ]
+      },
+      "id": "node/1956969150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1960107459",
+        "amenity": "college",
+        "name": "Politehnik Swis ITB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6202785,
+          -6.8775493
+        ]
+      },
+      "id": "node/1960107459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3128774234",
+        "historic": "monument",
+        "name": "Husein Sastrenegana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5873489,
+          -6.9067721
+        ]
+      },
+      "id": "node/3128774234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348067546",
+        "addr:housenumber": "8",
+        "addr:street": "Jalan Inggit Ganarsih",
+        "description": "Museum about Sukarno's ex-wife",
+        "name": "Rumah Bersejarah Inggit Garnasih",
+        "opening_hours": "Mo-Su 07:00-16:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6024885,
+          -6.9314629
+        ]
+      },
+      "id": "node/3348067546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348122792",
+        "historic": "monument",
+        "name": "Monumen Konferensi Asia Afrika",
+        "name:en": "Asian-African Conference Monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6177074,
+          -6.922361
+        ]
+      },
+      "id": "node/3348122792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3348135338",
+        "historic": "monument",
+        "name": "Monumen Penjara Bung Karno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6077252,
+          -6.9191554
+        ]
+      },
+      "id": "node/3348135338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4010750717",
+        "addr:city": "Coblong",
+        "addr:housenumber": "20",
+        "addr:postcode": "40133",
+        "addr:street": "Jalan Jalak",
+        "amenity": "community_centre",
+        "name": "Yayasan Pengembangan Biosains dan Bioteknologi Urban Center",
+        "operator": "Yayasan Pengembangan Biosains dan Bioteknologi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6215181,
+          -6.8980036
+        ]
+      },
+      "id": "node/4010750717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315331597",
+        "addr:city": "Bandung",
+        "addr:housenumber": "No. 23",
+        "addr:street": "Jalan PH.H. Mustofa, Cikutra, Cibeunying Kidul, Neglasari, Cibeunying Kaler,",
+        "amenity": "university",
+        "name": "Institut Teknologi Nasional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6395281,
+          -6.8988185
+        ]
+      },
+      "id": "node/4315331597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315338668",
+        "addr:city": "Bandung",
+        "addr:housenumber": "No. 37",
+        "addr:street": "Jl Terusan Halimun Burangrang Bandung",
+        "amenity": "university",
+        "name": "Institut Teknologi Adityawarman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6259866,
+          -6.9271072
+        ]
+      },
+      "id": "node/4315338668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4326529730",
+        "addr:city": "Bandung",
+        "addr:street": "Babakan Ciamis, Sumur Bandung",
+        "amenity": "college",
+        "name": "SLBN Cicendo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6041477,
+          -6.9107009
+        ]
+      },
+      "id": "node/4326529730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4326873603",
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:housenumber": "15",
+        "addr:street": "Jl. Cikapayang , Tamansari, Bandung Wetan",
+        "amenity": "university",
+        "name": "Kantor Satuan Penjaminan Mutu & Pengawas Internal Itb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6107894,
+          -6.8987637
+        ]
+      },
+      "id": "node/4326873603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4327898433",
+        "addr:city": "Bandung, Jawa Barat",
+        "addr:housenumber": "79-83",
+        "addr:street": "Jl. Garuda , Dungus Cariang, Andir",
+        "amenity": "college",
+        "name": "Akademi Kebidanan Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5782431,
+          -6.9112541
+        ]
+      },
+      "id": "node/4327898433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329452898",
+        "addr:city": "Bandung",
+        "addr:housenumber": "59",
+        "addr:street": "Jl. Pahlawan , Sukaluyu, Cibeunying Kaler",
+        "amenity": "university",
+        "name": "Politeknik LP3I Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6342973,
+          -6.8965816
+        ]
+      },
+      "id": "node/4329452898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329454377",
+        "addr:city": "Bandung",
+        "addr:housenumber": "58",
+        "addr:street": "Jl. Pahlawan , Neglasari, Cibeunying Kaler",
+        "name": "Galeri Cinde",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6346884,
+          -6.8965886
+        ]
+      },
+      "id": "node/4329454377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329467501",
+        "addr:city": "Bandung",
+        "addr:housenumber": "83",
+        "addr:street": "Jl. Pahlawan , Sukaluyu, Cibeunying Kaler",
+        "amenity": "university",
+        "name": "Politeknik Agp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6346164,
+          -6.8947444
+        ]
+      },
+      "id": "node/4329467501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329574162",
+        "addr:city": "Bandung",
+        "addr:housenumber": "171",
+        "addr:street": "Jl. Cikutra , Neglasari, Cibeunying Kaler",
+        "amenity": "university",
+        "name": "Universitas Bandung Raya Fakusltas Pertanian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6435144,
+          -6.8962936
+        ]
+      },
+      "id": "node/4329574162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329588258",
+        "addr:city": "Bandung",
+        "addr:housenumber": "23",
+        "addr:street": "Jalan PH.H. Mustofa",
+        "amenity": "college",
+        "name": "Institut Teknologi Nasional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6357174,
+          -6.8978831
+        ]
+      },
+      "id": "node/4329588258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329634169",
+        "addr:city": "Bandung",
+        "addr:housenumber": "186",
+        "addr:street": "JL Dr Setiabudi",
+        "amenity": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5937635,
+          -6.8695941
+        ]
+      },
+      "id": "node/4329634169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329639329",
+        "addr:city": "Bandung",
+        "addr:housenumber": "8",
+        "addr:street": "Jl Cihampelas Pasir Kaliki Bandung",
+        "amenity": "university",
+        "name": "Sekolah Tinggi Hukum Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6045553,
+          -6.9065089
+        ]
+      },
+      "id": "node/4329639329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365723062",
+        "addr:city": "Bandung",
+        "addr:housenumber": "22A",
+        "addr:postcode": "40171",
+        "addr:street": "Jalan Kebon Kawung",
+        "historic": "monument",
+        "name": "Pintu Utara Stasiun Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6025815,
+          -6.9126809
+        ]
+      },
+      "id": "node/4365723062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370460566",
+        "amenity": "university",
+        "building": "school",
+        "name": "Universitas Nurtanio Bandung",
+        "name:en": "Unnur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5814027,
+          -6.9055946
+        ]
+      },
+      "id": "node/4370460566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370519683",
+        "amenity": "university",
+        "name": "STIE Ekuitas",
+        "name:en": "Stie Ekuitas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.637906,
+          -6.8983266
+        ]
+      },
+      "id": "node/4370519683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402036473",
+        "addr:city": "Bandung",
+        "addr:housenumber": "32",
+        "addr:postcode": "40116",
+        "addr:street": "Jalan Purnawarman",
+        "amenity": "university",
+        "name": "Institut Francais Indonesia",
+        "wikidata": "Q61929911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6095093,
+          -6.9078792
+        ]
+      },
+      "id": "node/4402036473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4538382491",
+        "addr:street": "jalan karasak- m tohha",
+        "amenity": "community_centre",
+        "name": "komplek kurdi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6047034,
+          -6.943199
+        ]
+      },
+      "id": "node/4538382491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4543278791",
+        "amenity": "community_centre",
+        "name": "Balai Sartika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6254901,
+          -6.942249
+        ]
+      },
+      "id": "node/4543278791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4625757227",
+        "addr:housenumber": "293",
+        "addr:street": "Jalan Setiabudhi",
+        "name": "Amazing Art World",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+62 222018280",
+        "tourism": "museum",
+        "website": "https://m.facebook.com/AmazingArtWorld.Bandung/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5963601,
+          -6.8516724
+        ]
+      },
+      "id": "node/4625757227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4863109262",
+        "amenity": "community_centre",
+        "description": "MAPALA",
+        "name": "F 114",
+        "office": "company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6459107,
+          -6.8979781
+        ]
+      },
+      "id": "node/4863109262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5172305132",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6077211,
+          -6.905591
+        ]
+      },
+      "id": "node/5172305132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5188407891",
+        "name": "Seni Abadi",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6056955,
+          -6.9042507
+        ]
+      },
+      "id": "node/5188407891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5506699714",
+        "addr:housenumber": "15",
+        "addr:street": "Jalan Sirnagalih",
+        "facebook": "https://m.facebook.com/bandungsciencecenter",
+        "fee": "yes",
+        "name": "Bandung Science Center",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "phone": "+62222060412",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5947081,
+          -6.8773023
+        ]
+      },
+      "id": "node/5506699714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5554688585",
+        "addr:housenumber": "22",
+        "addr:street": "Jalan Diponegoro",
+        "fee": "yes",
+        "name": "Museum Gedung Sate",
+        "opening_hours": "Tu-Su 09:30-16:00",
+        "phone": "+62224267753",
+        "tourism": "museum",
+        "website": "http://museumgedungsate.jabarprov.go.id",
+        "wheelchair": "yes",
+        "wikidata": "Q108991304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6190825,
+          -6.9025816
+        ]
+      },
+      "id": "node/5554688585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5561282275",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6010995,
+          -6.8829537
+        ]
+      },
+      "id": "node/5561282275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5564292643",
+        "historic": "monument",
+        "name": "Patung Maung Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6043675,
+          -6.9043663
+        ]
+      },
+      "id": "node/5564292643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566296346",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6027797,
+          -6.9043824
+        ]
+      },
+      "id": "node/5566296346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586548849",
+        "addr:city": "Bandung",
+        "addr:housenumber": "73",
+        "addr:street": "Jalan Cilaki",
+        "fee": "no",
+        "name": "Museum Pos Indonesia",
+        "name:en": "Indonesia Postal Museum",
+        "opening_hours": "Mo-Fr 08:00-16:00; Sa 09:00-13:00",
+        "tourism": "museum",
+        "wikidata": "Q10986546",
+        "wikimedia_commons": "File:Kantor Pusat Pos Indonesia.JPG",
+        "wikipedia": "id:Museum Pos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6198013,
+          -6.9020925
+        ]
+      },
+      "id": "node/5586548849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5885293835",
+        "name": "Hall of Fame Jawa Barat",
+        "name:en": "Hall of Fame West Java",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6632081,
+          -6.9348098
+        ]
+      },
+      "id": "node/5885293835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6466097818",
+        "access": "yes",
+        "historic": "monument",
+        "name": "Tugu Selamat Datang di Kota Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5692022,
+          -6.9106346
+        ]
+      },
+      "id": "node/6466097818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593020147",
+        "amenity": "college",
+        "name": "Akademi Sekretari dan Manajemen Taruna Bakti (ASMTB)",
+        "name:en": "Taruna Bakti Academy of Secretary and Management (ASMTB)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6199014,
+          -6.9057383
+        ]
+      },
+      "id": "node/6593020147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6711669611",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6039734,
+          -6.9126375
+        ]
+      },
+      "id": "node/6711669611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6714107763",
+        "addr:housenumber": "45B",
+        "addr:street": "Jalan Diponegoro",
+        "fee": "no",
+        "name": "Museum Perbendaharaan",
+        "name:en": "Treasury museum",
+        "opening_hours": "Mo, Sa, Su 09:00-16:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6228648,
+          -6.9006473
+        ]
+      },
+      "id": "node/6714107763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725583856",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6090424,
+          -6.9161781
+        ]
+      },
+      "id": "node/6725583856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725758915",
+        "addr:housenumber": "39a",
+        "addr:street": "Jalan Sunda",
+        "name": "Zerotoys Museum Mainan",
+        "name:en": "Zerotoys Toy Museum",
+        "opening_hours": "Mo-We, Fr-Su 11:00-20:00",
+        "tourism": "museum",
+        "website": "https://m.facebook.com/zerotoys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6176886,
+          -6.9199749
+        ]
+      },
+      "id": "node/6725758915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725860935",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6042383,
+          -6.8999997
+        ]
+      },
+      "id": "node/6725860935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083339722",
+        "fee": "no",
+        "name": "Bandung Planning Gallery",
+        "opening_hours": "Mo-Sa 09:00-16:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6098121,
+          -6.9103103
+        ]
+      },
+      "id": "node/7083339722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7277456985",
+        "addr:city": "Bandung",
+        "addr:housenumber": "3",
+        "addr:postcode": "40191",
+        "addr:street": "Jalan Cigadung Asri I",
+        "amenity": "community_centre",
+        "internet_access": "wlan",
+        "name": "Common Room",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "website": "https://commonroom.info"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6241197,
+          -6.8747677
+        ]
+      },
+      "id": "node/7277456985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7288059485",
+        "addr:city": "Bandung",
+        "addr:housenumber": "438",
+        "addr:postcode": "40135",
+        "addr:street": "Jalan Insinyur Haji Juanda",
+        "amenity": "community_centre",
+        "name": "Bandung Bee Sanctuary",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "phone": "+62 821 1666 1590",
+        "website": "https://www.instagram.com/lebahbandung/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621222,
+          -6.8699679
+        ]
+      },
+      "id": "node/7288059485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9803314549",
+        "amenity": "university",
+        "name": "Universitas Widyatama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6448221,
+          -6.8979318
+        ]
+      },
+      "id": "node/9803314549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9808033372",
+        "amenity": "college",
+        "name": "Yayasan Adhi Guna Kencana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7100708,
+          -6.935951
+        ]
+      },
+      "id": "node/9808033372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9808094311",
+        "historic": "monument",
+        "name": "Bunderan Cibiru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7176635,
+          -6.9349796
+        ]
+      },
+      "id": "node/9808094311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9808159309",
+        "amenity": "college",
+        "name": "Grafologi Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6192969,
+          -6.8931521
+        ]
+      },
+      "id": "node/9808159309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9808548007",
+        "amenity": "university",
+        "name": "Politeknik Pajajaran Direktorat Ruko Surapati Core"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6523622,
+          -6.9010231
+        ]
+      },
+      "id": "node/9808548007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9816621944",
+        "historic": "monument",
+        "name": "Tugu Sepatu Cibaduyut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5952938,
+          -6.9474505
+        ]
+      },
+      "id": "node/9816621944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9932149562",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6044425,
+          -6.90716
+        ]
+      },
+      "id": "node/9932149562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9944380449",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6090085,
+          -6.9138549
+        ]
+      },
+      "id": "node/9944380449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171528226",
+        "addr:city": "Bandung",
+        "addr:postcode": "40285",
+        "addr:street": "Jl. Soekarno Hatta, Sukapura, Kec. Kiaracondong, Kota Bandung, Jawa Barat",
+        "air_conditioning": "yes",
+        "amenity": "library",
+        "name": "Perpustakaan Deposit Jawa Barat",
+        "opening_hours": "Mo-Su 08:00-15:00",
+        "phone": "+62 22 7310 435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6476568,
+          -6.9426763
+        ]
+      },
+      "id": "node/10171528226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171802594",
+        "addr:city": "Bandung",
+        "addr:postcode": "40122",
+        "addr:street": "Jl. Diponegoro No.57, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "name": "Perpustakaan PVMBG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6207509,
+          -6.8998291
+        ]
+      },
+      "id": "node/10171802594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171812049",
+        "addr:city": "Bandung",
+        "addr:postcode": "40115",
+        "addr:street": "Jl. Merdeka No.56, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "name": "Library In The Box",
+        "phone": "+62 852 9416 5055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6107907,
+          -6.9092644
+        ]
+      },
+      "id": "node/10171812049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171842275",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jl. Ganesa, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "level": "1",
+        "name": "Salman Reading Corner",
+        "name:en": "Salman Reading Corner",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Masjid Salman ITB",
+        "operator:type": "public",
+        "phone": "+62 22 2503 645",
+        "website": "https://www.salmanreadingcorner.web.id/",
+        "wikidata": "Q116769335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6112091,
+          -6.8940927
+        ]
+      },
+      "id": "node/10171842275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171863846",
+        "addr:city": "Bandung",
+        "addr:postcode": "40122",
+        "addr:street": "Jl. Diponegoro No.63, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "name": "Perpustakaan Masjid Pusdai",
+        "opening_hours": "Mo-Fr 09:00-15:30",
+        "operator": "Masjid PUSDAI",
+        "phone": "+62 22 7217 532",
+        "website": "https://pusdai.or.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6262202,
+          -6.9001383
+        ]
+      },
+      "id": "node/10171863846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171868650",
+        "addr:city": "Bandung",
+        "addr:postcode": "40122",
+        "addr:street": "Jl. Melania No.7, Cihaur Geulis, Kec. Cibeunying Kaler, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "name": "Geol Labs Puslitbang Geologi",
+        "operator": "PUSLITBANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.620025,
+          -6.900629
+        ]
+      },
+      "id": "node/10171868650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171869227",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "No., Jl. Dipati Ukur No.35, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat",
+        "amenity": "library",
+        "name": "Gedung Perpustakaan Fakultas Ekonomi dan Bisnis UNPAD",
+        "operator": "UNPAD",
+        "phone": "+62 22 2533 606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6163748,
+          -6.8960158
+        ]
+      },
+      "id": "node/10171869227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171872310",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jl. Pager Gunung No.3, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat",
+        "air_conditioning": "yes",
+        "amenity": "library",
+        "name": "Taman Bacaan Zoe",
+        "opening_hours": "Mo-Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614776,
+          -6.8969412
+        ]
+      },
+      "id": "node/10171872310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10277024588",
+        "amenity": "library",
+        "description": "Gedung CAS Lantai 5",
+        "name": "Perpustakaan Matematika ITB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6112893,
+          -6.8883292
+        ]
+      },
+      "id": "node/10277024588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10277030207",
+        "amenity": "library",
+        "name": "Perpustakaan STEI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6094569,
+          -6.8905727
+        ]
+      },
+      "id": "node/10277030207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10277057720",
+        "amenity": "library",
+        "name": "Perpustakaan Kimia ITB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6117569,
+          -6.8893072
+        ]
+      },
+      "id": "node/10277057720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10277073757",
+        "amenity": "library",
+        "name": "Perpustakaan Fisika ITB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6096099,
+          -6.8913867
+        ]
+      },
+      "id": "node/10277073757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10277538618",
+        "amenity": "library",
+        "name": "Perpustakaan SBM ITB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6092047,
+          -6.8881142
+        ]
+      },
+      "id": "node/10277538618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280227881",
+        "addr:city": "Bandung",
+        "addr:housenumber": "5",
+        "addr:postcode": "40292",
+        "addr:street": "Jalan Aria Utama",
+        "name": "Museum Nike Ardilla",
+        "phone": "+6281572115999",
+        "tourism": "museum",
+        "wikidata": "Q115794539"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6725146,
+          -6.9405148
+        ]
+      },
+      "id": "node/10280227881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10280251596",
+        "addr:city": "Bandung",
+        "addr:housenumber": "37",
+        "addr:postcode": "40211",
+        "addr:street": "Jalan Nana Rohana",
+        "name": "Museum Kebudayaan Tionghoa",
+        "tourism": "museum",
+        "wikidata": "Q115794648"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5773807,
+          -6.9217089
+        ]
+      },
+      "id": "node/10280251596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10281446772",
+        "addr:city": "Bandung",
+        "addr:housenumber": "Masjid Mubarak",
+        "addr:street": "Jalan Pahlawan",
+        "amenity": "library",
+        "internet_access": "yes",
+        "name": "WR. Supratman Public Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6344273,
+          -6.8955318
+        ]
+      },
+      "id": "node/10281446772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10281457309",
+        "addr:city": "Kel. Babakan Sari",
+        "addr:housenumber": "1",
+        "addr:street": "Jalan Babakansari",
+        "amenity": "library",
+        "name": "Microlibrary Babakan Sari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6544966,
+          -6.9241314
+        ]
+      },
+      "id": "node/10281457309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10284195908",
+        "name": "Sanggar Olah Seni Babakan Siliwangi",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6105402,
+          -6.8848947
+        ]
+      },
+      "id": "node/10284195908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10284202116",
+        "contact:instagram": "https://www.instagram.com/galeri_soemardja/?hl=en",
+        "name": "Galeri Soermardja",
+        "tourism": "gallery",
+        "wikidata": "Q65212157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6115175,
+          -6.8924546
+        ]
+      },
+      "id": "node/10284202116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10653924700",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jl. Tamansari, Lb. Siliwangi, Kec. Coblong",
+        "name": "Galeri Kebun Seni Tamansari Bandung",
+        "tourism": "gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6078554,
+          -6.8887947
+        ]
+      },
+      "id": "node/10653924700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10656700010",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jl. Tamansari No.8, Lb. Siliwangi, Kecamatan Coblong",
+        "amenity": "library",
+        "name": "Perpustakaan Universitas Pasundan",
+        "operator": "Universitas Pasundan",
+        "operator:type": "university"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6086888,
+          -6.904676
+        ]
+      },
+      "id": "node/10656700010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10656700573",
+        "addr:city": "Bandung",
+        "addr:postcode": "40132",
+        "addr:street": "Jl. Tamansari N0.8 Lebak Siliwangi Kecamatan Coblong",
+        "amenity": "library",
+        "name": "Pepustakaan Universita Pasundan",
+        "operator": "Universitas Pasundan",
+        "operator:type": "university"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6086547,
+          -6.9047136
+        ]
+      },
+      "id": "node/10656700573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10656979386",
+        "addr:city": "Bandung",
+        "addr:housenumber": "386",
+        "addr:postcode": "40115",
+        "addr:street": "Jalan Insinyur Haji Juanda",
+        "name": "Gloya by Krida Nusantara",
+        "tourism": "gallery",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.612598,
+          -6.9010128
+        ]
+      },
+      "id": "node/10656979386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10767220772",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6186869,
+          -6.8987801
+        ]
+      },
+      "id": "node/10767220772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11052507720",
+        "historic": "monument",
+        "name": "Bandung sister cities - Braunschweig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6077688,
+          -6.9064515
+        ]
+      },
+      "id": "node/11052507720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061286364",
+        "historic": "monument",
+        "name": "Train"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6313852,
+          -6.9199099
+        ]
+      },
+      "id": "node/11061286364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11076709376",
+        "amenity": "university",
+        "name": "Ocean Engineering ITB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6101304,
+          -6.8901069
+        ]
+      },
+      "id": "node/11076709376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11221733687",
+        "amenity": "library",
+        "name": "Agrarian Resource Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6736363,
+          -6.9238863
+        ]
+      },
+      "id": "node/11221733687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11337699136",
+        "historic": "monument",
+        "name": "Patung Ikan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6094128,
+          -6.9375474
+        ]
+      },
+      "id": "node/11337699136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12051490449",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.705261,
+          -6.9489111
+        ]
+      },
+      "id": "node/12051490449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12090548597",
+        "historic": "monument",
+        "name": "Gong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6069163,
+          -6.9234612
+        ]
+      },
+      "id": "node/12090548597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12128022518",
+        "amenity": "university",
+        "name": "Pascasarjana ISBI",
+        "operator": "ISBI",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6275856,
+          -6.9429091
+        ]
+      },
+      "id": "node/12128022518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12128022520",
+        "amenity": "university",
+        "name": "Program Studi Televisi Dan Film ISBI",
+        "operator": "ISBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6275522,
+          -6.9430887
+        ]
+      },
+      "id": "node/12128022520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12128022521",
+        "amenity": "university",
+        "name": "Fakultas Budaya Dan Media ISBI",
+        "operator": "ISBI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6273601,
+          -6.9433139
+        ]
+      },
+      "id": "node/12128022521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13031340642",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6070682,
+          -6.9145707
+        ]
+      },
+      "id": "node/13031340642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13033667409",
+        "amenity": "community_centre",
+        "name": "Sudirman Grand Ballroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5796922,
+          -6.9168332
+        ]
+      },
+      "id": "node/13033667409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13042314420",
+        "fee": "no",
+        "name": "Museum Kavaleri",
+        "opening_hours": "Tu-Su 10:00-15:00",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6301675,
+          -6.9255136
+        ]
+      },
+      "id": "node/13042314420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13045346902",
+        "historic": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6075458,
+          -6.9077158
+        ]
+      },
+      "id": "node/13045346902"
+    }
+  ]
+}
