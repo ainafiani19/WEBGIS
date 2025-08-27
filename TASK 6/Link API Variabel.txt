@@ -1,0 +1,4 @@
+Risiko Banjir : https://geoserver.mapid.io/layers_new/get_layer?api_key=5249521c14de436ebcf1fb8f05e6048d&layer_id=68ad7334278efb811839206f&project_id=68ad73214a3bb7db313284b2
+Ekonomi : https://geoserver.mapid.io/layers_new/get_layer?api_key=5249521c14de436ebcf1fb8f05e6048d&layer_id=68ad73a1278efb8118392303&project_id=68ad73214a3bb7db313284b2
+Demografi : https://geoserver.mapid.io/layers_new/get_layer?api_key=5249521c14de436ebcf1fb8f05e6048d&layer_id=68ad73cbbdbfd0f39bfdbf2b&project_id=68ad73214a3bb7db313284b2
+Hasil Intersection : https://geoserver.mapid.io/layers_new/get_layer?api_key=5249521c14de436ebcf1fb8f05e6048d&layer_id=68aeabc64a3bb7db3134ba79&project_id=68ad73214a3bb7db313284b2
