@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <style>
+      nav {
+        background-color: rgb(79, 75, 75);
+        padding: 10px;
+        text-align: center;
+      }
+      nav a {
+        color: white;
+        margin: 0 15px;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      p {
+        font-size: 1.1em;
+        line-height: 1.6;
+      }
+      .profile {
+        display: flex;            /* gambar + teks sejajar */
+        align-items: flex-start;  /* sejajarkan ke atas */
+        margin-bottom: 20px;
+        text-align: justify;
+      }
+      .profile img {
+        width: 100px;
+        height: auto;
+        margin-right: 15px; /* kasih jarak antara gambar & teks */
+      }
+          /* Card project */
+    .project-card { /*ini grup class buat setelah div*/
+      background: #f5f5f5;
+      border-radius: 10px;
+      box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
+      padding: 10px;
+      text-align: center;
+      width: 250px;  /* lebar tiap card */
+    }
+
+    .project-card img { /*style buat gambar di pengalaman kerja*/
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    .project-card p {
+      margin-top: 10px;
+    }
+    /* wadah kotak besar buat nge kolom in per pengalaman kerja */
+    .project-container {
+      display: flex; /*bikin tampilan ngeyamping*/
+      justify-content: center; /* bikin rata tengah */
+      gap: 20px;               /* jarak antar card */
+      flex-wrap: wrap;         /* biar kalau layar kecil turun */
+      margin-top: 20px;
+    }
+    </style>
+  </head>
+  <body style="background-color: rgb(230, 229, 228);">
+    <nav>
+      <a href="Home_Page.html">Home</a>
+      <a href="Map_Page.html">Map</a>
+      <a href="Portofolio_Page.html">Portofolio</a>
+    </nav>
+<main>
+    <h1>HALOO! AYO SELANGKAH LEBIH KENAL SAMA AKU INI DIA PROFIL KU</h1>
+    <section>
+    <h2>Latar Belakang Pendidikan</h2>
+    <div class="profile">
+      <img src="D:\BOOTCAMP MAPID\TASK 7\WhatsApp Image 2025-08-27 at 21.11.21_207c4934.jpg" alt="Foto Profil">
+      <p style="background-color: darkgrey;">Aku lulusan S1 Perencanaan Wilayah dan Kota Universitas Brawijaya. Selama kuliah, aku terbiasa mengerjakan analisis spasial, bikin dokumen perencanaan, sampai ngolah data pakai software kayak ArcMAP, QGIS, SketchUp, dan Microsoft Office.
+        Di luar kelas, aku juga aktif di organisasi jurusan dan beberapa kali dipercaya jadi ketua bidang di acara kampus. 
+        <br\>
+        Dari situ aku belajar banyak soal kerja tim, mikir strategis, dan adaptasi di situasi yang dinamis.
+        Selain itu, aku juga punya rasa penasaran tinggi dan suka belajar hal-hal baru, jadi selalu semangat buat berkembang dan menambah pengalaman. 🚀</p>
+    </div>
+    </section>
+    <section>
+    <h2>Pengalaman Kerja atau proyek</h2>
+     <div class="project-container">
+    <div class="project-card">
+      <img src="D:\BOOTCAMP MAPID\TASK 7\KLHS CICALENGKA.png" alt="Dokumentasi Jobdesc KLHS CICALENGKA">
+      <h3>KLHS WP CICALENGKA</h3>
+      <p> Waktu magang aku ditempatin di tim laporan, tapi tetap juga harus ngolah data di ArcGIS buat dapetin hasil analisis. 
+        Jobdesc-ku waktu itu nyusun Bab 2 overlay KRP berdampak, bikin analisis DPSIR, sama nyusun rekomendasi.</p>
+    </div>
+
+    <div class="project-card">
+      <img src="D:\BOOTCAMP MAPID\TASK 7\KLHS BLITAR.png" alt="Dokumentasi Jobdesc KLHS BLITAR">
+      <h3>KLHS RDTR KOTA BLITAR</h3> 
+      <p>Di proyek ini, aku berperan sebagai freelancer untuk menyusun dokumen presentasi Konsultasi Publik sekaligus menyusun dokumen penjamin kualitas.</p>
+    </div>
+
+    <div class="project-card">
+      <img src="D:\BOOTCAMP MAPID\TASK 7\Light Blue Modern Minimalist Holiday Photo Collage Instagram Post (1).png" alt="Dokumentasi Studio SPW">
+      <h3>STUDIO PERENCANAAN WILAYAH</h3>
+      <p>Selama kuliah yang paling berkesan itu tugas akhir studio Perencanaan Wilayah. 
+        Kebetulan kelompokku dapet sektor pariwisata, jadi rasanya seru banget kayak lagi jalan-jalan, hehehe. 
+        Hasil akhirnya berupa dokumen Rencana Strategis Sektor Pariwisata.</p>
+    </div>
+  </div>
+  </section>
+  <h2>Kritik dan Saran</h2>
+  <label>Nama :</label>
+  <br/>
+  <input/>
+  <br/>
+  <br/>
+  <label>Kritik dan Saran</label>
+  <br/>
+  <textarea rows="3" cols="30"></textarea>
+  <br/>
+  <br/>
+  <button>Submit</button>
+
+  </form>
+</main>
+  </body>
+</html>
