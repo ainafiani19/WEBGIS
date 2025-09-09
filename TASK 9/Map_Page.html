@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+     <script>
+        tailwind.config ={
+            darkMode:"class"
+        }
+     </script>
+    <title>Map Page</title>
+</head>
+<body class="dark:bg-[#2D4F2B] bg-[#708A58]">
+    <nav class="flex justify-center max-w-screen mt-4 mb-2 ">
+        <ul class="flex space-x-6 text-white-600 font-medium dark:text-white"> 
+        <li>
+            <a href="Home_Page.html" class="hover:text-[#FFB823]">Home</a></li>
+
+            <li>
+                <a href="Map_Page.html" class="hover:text-[#FFB823]">Map</a>
+            </li>
+            <li>
+                <a href="Potofolio_Page.html" class="hover:text-[#FFB823]">Portofolio</a>
+            </li>
+            <li>
+                <button href="#" onclick="changeTheme()" class="hover:text-[#FFB823]">Dark/Light</button>
+            </li>
+    </nav>
+<section>
+    
+<div class="grid grid-cols-3 grid-rows-[auto_1fr] gap-2 h-screen text-white text-center font-bold text-xl">
+  <div class="bg-red-500 flex items-center justify-center h-16">
+    Logo
+  </div>
+  <div class="bg-blue-500 col-span-2 flex items-center justify-center h-16">
+    Search Bar
+  </div>
+  <div class="bg-green-500 flex items-center justify-center">
+    Filter
+  </div>
+  <div class="bg-yellow-500 col-span-2 flex items-center justify-center">
+    Peta
+  </div>
+</div>
+
+</section>
+
+<section>
+    <footer class="bg-[#FFF1CA] text-black-600">
+        <div class="mx-auto text-center">
+            <pclass="text-sm">&copy; 2025 Aina Nurfiani. Task 9.
+            </p>
+        </div>
+    </footer>
+  </section>
+
+<script>
+    if(localStorage.theme === "dark"){
+            document.documentElement.classList.add("dark")
+    }else if(localStorage.theme === "light"){
+            document.documentElement.classList.remove("dark")
+            
+    }else {
+    if (window.matchMedia("(prefers-color-scheme:dark)").matches){
+ document.documentElement.classList.add("dark")
+        }
+           
+    }
+        
+    function changeTheme(){
+    if(document.documentElement.classList.contains("dark")){
+        document.documentElement.classList.remove("dark")
+        localStorage.theme="light"
+    }else{ 
+        document.documentElement.classList.add("dark")
+        localStorage.theme="dark"
+    }
+    
+    }
+</script>
+</body>
+</html>
