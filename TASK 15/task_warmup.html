@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WarmUp</title>
+
+    <!--CDN MAPLIBRE GL JS-->
+    <script src="https://unpkg.com/maplibre-gl@^5.8.0/dist/maplibre-gl.js"></script>
+    <link href="https://unpkg.com/maplibre-gl@^5.8.0/dist/maplibre-gl.css" rel="stylesheet" />
+
+    <!-- CDN TAILWIND CSS-->
+    <!---->
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body>
+    <div id="map" class="w-full h-screen"></div>
+</body>
+
+<script>
+    const MAP_SERVICE_KEY = "68dcd62806823ed3f510dddf";
+    const DEFAULT_THEME = "street-new-generation";
+    //https://basemap.mapid.io/styles/street-new-generation/style.json?key=68dcd62806823ed3f510dddf
+    const map = new maplibregl.Map({
+        style: `https://basemap.mapid.io/styles/${DEFAULT_THEME}/style.json?key=${MAP_SERVICE_KEY}`,
+        center: [107.6, -6.9],
+        zoom: 10, //0-22 level
+        pitch: 0,
+        bearing: 0,
+        container: "map",
+        canvasContextAttributes: { antialias: true },
+        attributionControl: true,
+    });
+
+    map.on("load", function () {
+        map.addSource("data-kota", {
+            type: "geojson",
+            data: "https://geoserver.mapid.io/layers_new/get_layer?api_key=5249521c14de436ebcf1fb8f05e6048d&layer_id=68e7917215bc555e28830698&project_id=68dce08a32f5e9f00e3e0f2b",
+
+        });
+
+
+        map.addLayer({
+            id: "layer-data-kota",
+            type: "circle",
+            source:"data-kota",
+            paint:{
+                    //"circle-color":"black",sesuai color yang ditulis di script
+                    //"circle-color":["get","Color"],sesuai data yang di get dari API geomapid
+                    //jika data Color di API GeoMapid Kosong atau null
+            "circle-color":["coalesce",["get","Color"],"#000000"],
+                    //"coalesce" digunakan untuk memilih nilai pertama yang tidak kosong lalu jika
+                    //data nya kosong atau null maka menggunakan data lain(fallback) yang menjadi default
+            "circle-radius":10,
+
+                }})
+            })
+
+</script>
+
+</html>
